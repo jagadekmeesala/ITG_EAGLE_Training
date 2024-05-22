@@ -35,4 +35,10 @@
 - Researched on Linkers class loaders concept in java.
 - Researched on Static Linking and Dynamic linking with real time use cases.
 - Researched on Compiler and Interpreter along with its differences.
+- Parent class of all Java classes (java.lang.Object)
+- - Garbage collector
+- Finalise method
+- On what object Garbage collector and Finalise method are working on
 - 
+
+
