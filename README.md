@@ -39,6 +39,15 @@
 - Garbage collector
 - Finalise method
 - On what object Garbage collector and Finalise method are working on
-- 
+  Taught about
+- What is a constructor
+- Types of constructors like default, No arg, Parameterized and copy
+- Control flow statements
+- Conditional statements or decision making statements like IF, ELSE IF, IF ELSE, SWITCH, NESTED IF
+- Looping statements or Interative statements like FOR, WHILE, DO WHILE
+- Jumping statements like BREAK, CONTINUE, RETURN, TRY, CATCH and FINALLY
+- A program on nested if statement.
+
+
 
 
