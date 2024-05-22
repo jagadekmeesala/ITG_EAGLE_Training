@@ -12,7 +12,7 @@
 - Data Types
 - Variables and its scope
 - Research on basics of Java
-- Solving problems in Java givn by trainer (5)
+- Solving problems in Java givn by trainer (6)
 
 ***Soft Skills***
 - ABC in an individual
