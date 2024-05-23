@@ -80,6 +80,10 @@ Researched and learnt about
 - Recursion concept.
 - Problems on recursion (Sum of N numbers and Printing N numbers)
 - Problem solving (LCM code, GCD or HCF Code and Armstrong Number)
-- Terenary Operators
+- Terenary Operators concept
+- Problems on ternary operators like finding largest and smallest number out of given numbers.
+- Finding occurences of digit and finding the largest digit in a given number using Control statements
+- 
 
-
+***Soft Skills***
+- Updated One slide for the day.
