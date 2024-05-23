@@ -75,6 +75,7 @@ Trainer taught about
 
 ## Day-3 - 23rd May, 2024
 ***Tech***
+
 Researched and learnt about
 - Recursion concept.
 - Problems on recursion (Sum of N numbers and Printing N numbers)
