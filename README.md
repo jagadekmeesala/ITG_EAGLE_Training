@@ -74,7 +74,7 @@ Trainer taught about
 - Acessed MCafe App.
 
 ## Day-3 - 23rd May, 2024
-***Tech**
+***Tech***
 Researched and learnt about
 - Recursion concept.
 - Problems on recursion (Sum of N numbers and Printing N numbers)
