@@ -53,7 +53,9 @@
     48. Program to Find the Sum of the Series 1/1+1/4+1/9+…1/N^2
     49. Program to Find the Sum of the Series 1/1!+1/2!+1/3!+…1/N!
     50. Write a program to display pattern
-    
+
+
+'''
     *
    * * 
   * * * 
@@ -69,12 +71,15 @@
      *****
       ***
        *
+
+       
           *
          **
         ***
        ****
       *****
      ******
+
 
     *****
      ****
@@ -164,3 +169,5 @@ A
 **12345
 *123456
 1234567
+
+'''
