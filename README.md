@@ -110,6 +110,7 @@ Researched and learnt about
 - Series numbers printing
 - Strings vs String buffer
 - Process vs Threads
+- GitHub and Git
 
 Trainer taught about
 - Abstraction
@@ -133,6 +134,8 @@ Trainer taught about
 - Node, Springboot, Java, Php for backend
 - Mongo DB, Maria DB, S3 bucket as data bases for storing the data
 - EC2 Instances
+- Technologies to learn, if I want to work in Miracle Apps team
+- Possibility of roles opening and team that we can work on.
 
 Prasad Lokam sir session
 Session on Infrastructure from a full stack developers perspective
@@ -154,3 +157,12 @@ Prasad sir has discussed about quite a good technology - Cloud, My learnings fro
 - Managed vs Unmanaged
 - Services in GCP
 - Shift from Physical server --> Virtual Server --> Microserver --> Serverless computing
+- Microservers
+- Usage of Entire server, Usage of Distributed Server and Microserver
+- Cores and Processors
+- Curl Commands
+- Unix and Curl Commands relation
+- IAAS, PAAS, SAAS.
+- Pivotal cloud foundry
+- Containerization ad Orchestrization
+- Architecture of Web Apps on GCP
