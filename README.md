@@ -105,7 +105,14 @@ Trainer taught
 ## Day-4 - 24th May, 2024 12 to 1 - 2 to 12
 ***Tech***
 
-Researched and learnt about
+- Researched and learnt about
 -
 -
--
+
+Trainer taught about
+- Abstraction
+- Concrete method and abstract method
+- Why do we need to use abstract class
+- Ambiguity in Mutiple Inheritance and its reason
+- What is interface
+- 
