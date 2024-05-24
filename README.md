@@ -1,5 +1,6 @@
 # ITG_EAGLE_Training
 ## Day-0 20th May, 2024 2 to 11
+
 ## Day-1 - 21st May, 2024 2 to 12
 ***Tech***
 - Test on Basics of Java
@@ -100,3 +101,11 @@ Trainer taught
 - we got to know that team can be formed in minutes but all that needed is the intention
 - Team work is greater than individual working
 - Miracle works as a team and each department or practice is crucial in its success including ITG
+
+## Day-4 - 24th May, 2024 12 to 1 - 2 to 12
+***Tech***
+
+Researched and learnt about
+-
+-
+-
