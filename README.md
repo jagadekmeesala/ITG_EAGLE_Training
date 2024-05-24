@@ -1,53 +1,18 @@
-# ITG_EAGLE_Training
+# Basics of Java
 
-## Day-1 - 21st May, 2024
-***Tech***
-- Test on Basics of Java
-- Basics of Java
-- JDK
-- JRE
-- Class loaders
-- Class, Object, Method and Instance
-- JVM
-- Data Types
-- Variables and its scope
-- Research on basics of Java
-- Solving problems in Java givn by trainer (5)
-
-***Soft Skills***
-- ABC in an individual
-- Leadership
-- Teamwork
-- How to be a good leader
-- Initial assessment
-
-***HR***
-- Accessing corporate credntials
-- Zimbra mail
-- Hubble
-- MTalk
-- Leave approval and payroll checking
- 
-## Day-2 - 22nd May, 2024
-***Tech***
-- Solving problems in Java givn by trainer (10)
-- Researched on Types of Linkers in JRE
-- Researched on Linkers class loaders concept in java.
-- Researched on Static Linking and Dynamic linking with real time use cases.
-- Researched on Compiler and Interpreter along with its differences.
-- Parent class of all Java classes (java.lang.Object)
-- Garbage collector
-- Finalise method
-- On what object Garbage collector and Finalise method are working on
-  Taught about
-- What is a constructor
-- Types of constructors like default, No arg, Parameterized and copy
-- Control flow statements
-- Conditional statements or decision making statements like IF, ELSE IF, IF ELSE, SWITCH, NESTED IF
-- Looping statements or Interative statements like FOR, WHILE, DO WHILE
-- Jumping statements like BREAK, CONTINUE, RETURN, TRY, CATCH and FINALLY
-- A program on nested if statement.
-
-
-
-
+01. Write a statement to declare two integers called i and j.
+02. Write a statement which assigns the value 67 to the integer variable "I".
+03. Write a statement, using the cast operator, to print out the integer part of the number 23.1256.
+04. Write a program to perform all arithmetic operations?
+05. Write a program to find the sum and average of three numbers?
+06. Write a program to find the area of the circle? Write a program to find the Cube of the given number?
+07. Write a program to create an object in different ways?
+08. Write a program to create multiple methods with different return types?
+09. Write a program to create multiple methods with different numbers of parameters?
+10. Write a program to create and call a default constructor.
+11. Write a program to create and call a parameter constructor.
+12. Write a program to create and call no argument constructor.
+13. Write a program to call multiple constructors with a single constructor.
+14. Write a program to create and call different types of Variables?
+15. Write a program to explain the scope of variables?
+16.Program to Show Use of Static and Non-static Methods?
