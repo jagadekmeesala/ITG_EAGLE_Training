@@ -105,9 +105,11 @@ Trainer taught
 ## Day-4 - 24th May, 2024 12 to 1 - 2 to 12
 ***Tech***
 
-- Researched and learnt about
--
--
+Researched and learnt about
+- Pattern Printing programs
+- Series numbers printing
+- Strings vs String buffer
+- Process vs Threads
 
 Trainer taught about
 - Abstraction
@@ -115,4 +117,40 @@ Trainer taught about
 - Why do we need to use abstract class
 - Ambiguity in Mutiple Inheritance and its reason
 - What is interface
-- 
+- Dynamic binding in Interface
+- Compile time and run time polymorphism differences
+
+  MApps presentation by Santhosh Kola and Yeshwanth
+- Miracle Apps inception
+- Team working behind Miracle Apps
+- Divisions behind MApps
+- 20+ Apps were built by MApps team
+- Functionality of each and every Application built in MApps
+- Technologies used for building the apps
+- Usage of AWS for building MApps, like deployment and storing the data
+- Ngnix, Tomcat servers
+- HTML, CSS, JS, Angular, React, Iconicx for frontend
+- Node, Springboot, Java, Php for backend
+- Mongo DB, Maria DB, S3 bucket as data bases for storing the data
+- EC2 Instances
+
+Prasad Lokam sir session
+Session on Infrastructure from a full stack developers perspective
+Prasad sir has discussed about quite a good technology - Cloud, My learnings from the session are stated below
+- How cloud has evolved
+- How Virtualization started
+- Connection between virtualization and the beginning of cloud
+- Cloud = Stacks of physical servers + Virtualization
+- Virtual Servers, Virtual storage and Virtual networks + their real time implementations
+- Commercial public and private cloud service providers
+- Types of Clouds in the market and the requirements
+- Benefits of cloud, like scalability and pay per use
+- Services inside the cloud (Compute engine, Data Storage, Big data, Network an infrastructure)
+- Google cloud platform
+- Relatable names of Google, Azure and AWS while the services are same
+- Google Anthos
+- Google cloud platoform console
+- Open source vs Cloud specific vs Managed
+- Managed vs Unmanaged
+- Services in GCP
+- Shift from Physical server --> Virtual Server --> Microserver --> Serverless computing
