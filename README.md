@@ -121,7 +121,8 @@ Trainer taught about
 - Dynamic binding in Interface
 - Compile time and run time polymorphism differences
 
-  MApps presentation by Santhosh Kola and Yeshwanth
+
+MApps presentation by Santhosh Kola and Yeshwanth
 - Miracle Apps inception
 - Team working behind Miracle Apps
 - Divisions behind MApps
