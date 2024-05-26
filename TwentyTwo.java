@@ -1,6 +1,6 @@
 public class AddEvenOddDigits {
     public static void main(String[] args) {
-        int number = 123456; // Example number
+        int number = 123456;
         
         int evenSum = 0;
         int oddSum = 0;
