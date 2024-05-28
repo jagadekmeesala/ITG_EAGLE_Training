@@ -178,27 +178,28 @@ Prasad sir has discussed about quite a good technology - Cloud, My learnings fro
 
 ***Tech***
 Trained on
-- Evaluation on Previous week's topics
-- What is String
-- Interfaces in String
-- Types of declaring an object to string
-- Memory allocation for different types of object decalration
-- Constructor of String class
-- Methods in String
+- Evaluation on Previous week's topics.
+- What is String.
+- Interfaces in String.
+- Types of declaring an object to string.
+- Memory allocation for different types of object decalration.
+- Constructor of String class.
+- Methods in String.
 - Concat method and how it is used.
 - length (); and CharAt();
-- Different ways to compare strings
+- Different ways to compare strings.
 - Equals(); CompareTo(); and == operator.
 - Difference between equals and == operator
+- Techniqus to solve problems on Strings.
 
 Researched and learnt about
-- Java.lang package
-- Java.lang.object is the super class of all java classes
-- Object Class is the super class of all java classes
+- Java.lang package.
+- Java.lang.object is the super class of all java classes.
+- Object Class is the super class of all java classes.
 - ValueOf() method in Strings - Changes the datatype of a variables and object.
-- String Immutability
+- The concept of String Immutability.
 - Intern() Method in Strings - It creates an exact copy of data persent in heap memory to String constant pool.
-
+- Assigning strings using new keyword and string literals.
 
 ***Soft Skills***
 - Updated One slide profile for the day.
