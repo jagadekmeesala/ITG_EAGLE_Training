@@ -174,7 +174,7 @@ Prasad sir has discussed about quite a good technology - Cloud, My learnings fro
 -  No soft skills session today.
 
 ## Week-2
-### Day-1 28th May, 2024 - Tuesday - 2 to 11
+### Day-1 - 28th May, 2024 - Tuesday - 2 to 11
 
 ***Tech***
 Trained on
