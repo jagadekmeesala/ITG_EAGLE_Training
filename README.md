@@ -198,3 +198,8 @@ Researched and learnt about
 - ValueOf() method in Strings - Changes the datatype of a variables and object.
 - String Immutability
 - Intern() Method in Strings - It creates an exact copy of data persent in heap memory to String constant pool.
+
+
+***Soft Skills***
+- Updated One slide profile for the day.
+- 
