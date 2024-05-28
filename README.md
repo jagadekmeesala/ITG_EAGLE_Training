@@ -223,4 +223,4 @@ Trainer has taught about
 - - What if we don't know the name in formal or semi-formal email.
   - At what places do we need to identify or introduce ourselves.
 Researched and worked on
-- How emails make and break organisations.
+- How emails make and break the bond between organisations/businesses and customers.
