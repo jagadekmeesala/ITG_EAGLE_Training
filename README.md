@@ -190,3 +190,8 @@ Trained on
 - Different ways to compare strings
 - Equals(); CompareTo(); and == operator.
 - Difference between equals and == operator
+
+Researched and learnt about
+- Java.lang package
+- Java.lang.object is the super class of all java classes
+- Object Class is the super class of all java classes
