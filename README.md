@@ -202,4 +202,25 @@ Researched and learnt about
 
 ***Soft Skills***
 - Updated One slide profile for the day.
-- 
+Trainer has taught about
+- Email Etiquette.
+- Types of emails that are being sent with-in an organisation.
+- Formality of the email.
+- Formal. Semi-formal and informal types of emails.
+- Formal email is sent to organisation, representing an organisation.
+- Semi-formal email is sent within an organisation, but from one department to the other.
+- Informal emails are sent within a team from member to member.
+- What are Honorifics.
+- How honorifics are used.
+- Apt intorduction.
+- Proper subject line.
+- Keeping in mind to whom are we sending mail to.
+- Apologising in an email.
+- Expressing inability in an email.
+- Respecting others and readers.
+- Being concious of the intent of the readers.
+- I have asked trainer a couple of questions.
+- - What if we don't know the name in formal or semi-formal email.
+  - At what places do we need to identify or introduce ourselves.
+Researched and worked on
+- How emails make and break organisations.
