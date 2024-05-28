@@ -1,4 +1,4 @@
-public class HelloWorld{
+public class CompareString{
      public static void main(String []args){
          String s1 = "I am a Human";
          String s2 = new String ("I am a Human");
