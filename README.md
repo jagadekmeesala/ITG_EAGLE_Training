@@ -1,4 +1,4 @@
-Problems on Strings
+## Problems on Strings
 1. Program to separate the Individual Characters from a String
 2. Program to find Reverse and the length of the string without predefined
 functions.
