@@ -175,3 +175,18 @@ Prasad sir has discussed about quite a good technology - Cloud, My learnings fro
 
 ## Week-2
 ### Day-1 28th May, 2024 - Tuesday - 2 to 11
+
+***Tech***
+Trained on
+- Evaluation on Previous week's topics
+- What is String
+- Interfaces in String
+- Types of declaring an object to string
+- Memory allocation for different types of object decalration
+- Constructor of String class
+- Methods in String
+- Concat method and how it is used.
+- length (); and CharAt();
+- Different ways to compare strings
+- Equals(); CompareTo(); and == operator.
+- Difference between equals and == operator
