@@ -195,3 +195,6 @@ Researched and learnt about
 - Java.lang package
 - Java.lang.object is the super class of all java classes
 - Object Class is the super class of all java classes
+- ValueOf() method in Strings - Changes the datatype of a variables and object.
+- String Immutability
+- Intern() Method in Strings - It creates an exact copy of data persent in heap memory to String constant pool.
