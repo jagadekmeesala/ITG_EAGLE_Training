@@ -1,7 +1,9 @@
 # ITG_EAGLE_Training
-## Day-0 20th May, 2024 2 to 11
 
-## Day-1 - 21st May, 2024 2 to 12
+## Week-1
+### Day-0 20th May, 2024 - Monday - 2 to 11
+
+### Day-1 - 21st May, 2024 - Tuesday - 2 to 12
 ***Tech***
 - Test on Basics of Java
 - Basics of Java
@@ -29,7 +31,7 @@
 - MTalk
 - Leave approval and payroll checking
  
-## Day-2 - 22nd May, 2024 9.30 to 12.30 - 2 to 12
+### Day-2 - 22nd May, 2024 - Wednesday - 9.30 to 12.30 - 2 to 12
 ***Tech***
 - Solving problems in Java givn by trainer (10)
 - Researched on Types of Linkers in JRE
@@ -74,7 +76,7 @@ Trainer taught about
 - Accessed time sheets in Hubble.
 - Acessed MCafe App.
 
-## Day-3 - 23rd May, 2024 9.30 to 12.30 - 2 to 12
+### Day-3 - 23rd May, 2024 - Thursday - 9.30 to 12.30 - 2 to 12
 ***Tech***
 
 Researched and learnt about
@@ -102,7 +104,7 @@ Trainer taught
 - Team work is greater than individual working
 - Miracle works as a team and each department or practice is crucial in its success including ITG
 
-## Day-4 - 24th May, 2024 12 to 1 - 2 to 12
+### Day-4 - 24th May, 2024 - Friday - 12 to 1 - 2 to 12
 ***Tech***
 
 Researched and learnt about
@@ -167,3 +169,9 @@ Prasad sir has discussed about quite a good technology - Cloud, My learnings fro
 - Pivotal cloud foundry
 - Containerization ad Orchestrization
 - Architecture of Web Apps on GCP
+
+***Soft Skills***
+-  No soft skills session today.
+
+## Week-2
+### Day-1 28th May, 2024 - Tuesday - 2 to 11
