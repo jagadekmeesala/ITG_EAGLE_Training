@@ -246,6 +246,7 @@ Trained on
 - Creating a class in Springboot.
 - Creating sub-packages related to main class.
 - POJO, Controller and Service in Spring boot.
+- Creating a static spring boot API.
 - @Autowired
 - @GETMapping
 - PathVariable, Request Param.
