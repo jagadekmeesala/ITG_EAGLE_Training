@@ -235,6 +235,7 @@ Trained on
 - Webservices.
 - REST and SOAP Architectures.
 - XML and JSON.
+- JSON as a type of data storage for API and web apps.
 - What is Maven.
 - Steps to create a Springboot application.
 - Folder Structure in a springboot application
@@ -259,6 +260,8 @@ Trained on
 - @Data, @Getter, @Setter.
 - Accessing URL in Postmapping
 - Using POSTMAN as a tool to verify the url
+- Different methods in Postman
+- Text formatting in Postman (XML, RAW, JSON)
 - What does an exception mean.
 - Difference between error and exception
 - Exception handling in java.
