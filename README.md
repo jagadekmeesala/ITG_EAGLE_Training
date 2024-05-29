@@ -225,3 +225,44 @@ Trainer has taught about
   - At what places do we need to identify or introduce ourselves.
 Researched and worked on
 - How emails make and break the bond between organisations/businesses and customers.
+
+### Day-2 29th May, 2024 - Tuesday - 10am to 11
+
+***Tech***
+Trained on
+- What does API mean and what does it do.
+- Basics of Springboot.
+- Webservices.
+- REST and SOAP Architectures.
+- XML and JSON.
+- What is Maven.
+- Steps to create a Springboot application.
+- Folder Structure in a springboot application
+- Root folder is src/main/java
+- DB Connections can be written in src/main/resources in application properties.
+- src/main/test - we write test cases.
+- POM.xml (Project object model) we can add dependencies.
+- Maven folder to add dependencies.
+- Creating a class in Springboot.
+- Creating sub-packages related to main class.
+- POJO, Controller and Service in Spring boot.
+- @Autowired
+- @GETMapping
+- PathVariable, Request Param.
+- @Postmapping
+- @RequestMapping
+- @RequestBody
+- @RestController
+- Status 200, Error 400 and 500
+- POJO Class getters and setters
+- @Data, @Getter, @Setter.
+- Accessing URL in Postmapping
+- Using POSTMAN as a tool to verify the url
+- What does an exception mean.
+- Difference between error and exception
+- Exception handling in java.
+- Try(), Catch(), Finally().
+- Ways to print exceptions.
+- Single catch with Multiple exceptions
+Researched on
+- String vs String builder vs String buffer
