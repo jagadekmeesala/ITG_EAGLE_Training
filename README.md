@@ -274,12 +274,15 @@ Researched on
 
 Prasad Sir To-Dos
 - Work on Unix commands
+- CURL Commands
 - Directory commands
 - File commands
 - Shell scripting on terminal
 - JSON Object
+- Creating a JSON Object using Java
+- Database Creation and inserting data
 - Knowledge on Entity relationships
-- Database accessing
+
 
 ***Soft Skills***
 - Updated one slide profile for the day.
