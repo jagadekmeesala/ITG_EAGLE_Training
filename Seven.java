@@ -1,20 +1,26 @@
-public class CompareString{
-     public static void main(String []args){
-         String s1 = "I am a Human";
-         String s2 = new String ("I am a Human");
-         String s3 = "I am an Human";
-         String s4 = "I am a Human";
-         System.out.println(s1.equals(s2));
-         System.out.println(s1.equals(s3));
-         System.out.println(s1.equals(s4));
-         System.out.println(s2.equals(s3));
-         System.out.println(s2.equals(s4));
-         System.out.println(s3.equals(s4));
-         System.out.println(s1==s2);
-         System.out.println(s1==s3);
-         System.out.println(s1==s4);
-         System.out.println(s2==s3);
-         System.out.println(s2==s4);
-         System.out.println(s3==s4);
-     }
+public class Main {
+  public static void main(String[] args) {
+    String s1 = "Hello Ram!";
+    String s2 = "Hello Ran!";
+    String s3 = s1.toLowerCase();
+    String s4 = s2.toLowerCase();
+    int A = s3.length();
+    int B = s4.length();
+    if (A != B) {
+      System.out.println("Both strings are not the same and have different lengths");
+    } else {
+      boolean areSame = true;
+      for (int i = 0; i < A; i++) {
+        if (s3.charAt(i) != s4.charAt(i)) {
+          areSame = false;
+          break;
+        }
+      }
+      if (areSame) {
+        System.out.println("Both strings are same");
+      } else {
+        System.out.println("Both strings are not same");
+      }
+    }
+  }
 }
