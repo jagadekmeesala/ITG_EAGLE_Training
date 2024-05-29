@@ -274,4 +274,7 @@ Researched on
 
 ***Soft Skills***
 - Updated one slide profile for the day.
-- 
+  Trainer has taught about
+- Email subject line and its importance
+- Attachements and how should we make sure of what attachements are we adding
+- The size of the attachments is important
