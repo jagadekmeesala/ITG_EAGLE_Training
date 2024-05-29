@@ -2,7 +2,7 @@ public class Main {
   public static void main(String[] args) {
     String s = "Hello World!";
     int length = 0;
-    for (char c : s.toCharArray()) {
+    for (char charArray : s.toCharArray()) {
       length++; 
     }
     
