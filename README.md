@@ -266,3 +266,8 @@ Trained on
 - Single catch with Multiple exceptions
 Researched on
 - String vs String builder vs String buffer
+- Solved the problems on strings using pre-defined methods
+
+***Soft Skills***
+- Updated one slide profile for the day.
+- 
