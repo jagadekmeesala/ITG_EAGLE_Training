@@ -272,9 +272,22 @@ Researched on
 - String vs String builder vs String buffer
 - Solved the problems on strings using pre-defined methods
 
+Prasad Sir To-Dos
+- Work on Unix commands
+- Directory commands
+- File commands
+- Shell scripting on terminal
+- JSON Object
+- Knowledge on Entity relationships
+- Database accessing
+
 ***Soft Skills***
 - Updated one slide profile for the day.
   Trainer has taught about
 - Email subject line and its importance
 - Attachements and how should we make sure of what attachements are we adding
 - The size of the attachments is important
+- Letting the receiver know about the attachments
+- Style of email is crucial as it creates an impression
+- PFA, FYI, FYA and other abbrevations.
+- 
