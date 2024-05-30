@@ -308,6 +308,17 @@ Trainer taught about
 - Worked on building a Springboot static API
 - Accessing and building springboot API in VS Code
 - Using Postman to test the APIs.
+- Throw, Throws.
+- Iterable.
+- Collections.
+- Interfaces in collections
+- List, set queue briefing.
+- Difference or comparision for List and Set
+- List and set are interfaces
+- Legacy class and its meaning in Java
+- How memory is occupied in ArrayList and LinkedList
+- Which is more efficient in both of them
+- Problem on ArrayList.
 
 Researched and worked on
 - Annotations in Springboot.
@@ -319,3 +330,6 @@ Researched and worked on
 - Using Postman and tools like postman to test the API
 - Unix commands
 - Command to open an application and shut down the system.
+- ArrayList Methods
+- LinkedList methods
+- problems on LinkedList and ArrayList.
