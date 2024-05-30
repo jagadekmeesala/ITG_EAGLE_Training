@@ -303,6 +303,7 @@ Prasad Sir To-Dos
 ### Day-3 - 30th May, 2024 - Thursday - 10am to 11
 
 ***Tech***
+
 Trainer taught about
 - Worked on building a Springboot static API
 - Accessing and building springboot API in VS Code
