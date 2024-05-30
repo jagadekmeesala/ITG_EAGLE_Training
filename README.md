@@ -319,6 +319,7 @@ Trainer taught about
 - How memory is occupied in ArrayList and LinkedList
 - Which is more efficient in both of them
 - Problem on ArrayList.
+- Individual Database creation
 
 Researched and worked on
 - Annotations in Springboot.
@@ -333,6 +334,10 @@ Researched and worked on
 - ArrayList Methods
 - LinkedList methods
 - problems on LinkedList and ArrayList.
+- Queue (FIFO)
+- Classes that implements interface queue (Priority queue and LinkedList - Not thread safe and Priority blocking queue - Thread safe)
+- Deque (Double ended queue)
+- Completed problems on Strings
 
 ***Soft Skills***
 Today, Trainer has evaluated a mail written by one of my batchmates.
