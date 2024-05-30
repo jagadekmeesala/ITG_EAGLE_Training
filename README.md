@@ -333,3 +333,21 @@ Researched and worked on
 - ArrayList Methods
 - LinkedList methods
 - problems on LinkedList and ArrayList.
+
+***Soft Skills***
+Today, Trainer has evaluated a mail written by one of my batchmates.
+My learnings from his suggestions are
+- Subject line really plays a crucial role from the receivers perspective.
+- The intimation about attachemnts is a must.
+- The name of the attachements can be descriptive so that the receiver can understand easily about it even without need for oepning it.
+- To whom are we wrting the mail and what kind of salutation are we doing matters the most
+  Ex - We can write a mail to a person and cannot say hello team and vice versa
+- The content of the mail body should be consise
+- While writing the body organisation, writing style and formality are some key aspects to look after
+- Sentence formation and vocabulary selection for a particular mail is important
+
+I have asked the trainer a question
+- What is the decent size of a subject line?
+  Ans - As long as it is in a line(as the name suggests) it is good. Basically 5-6 lines will be good enough as long as it is conveying the message.
+
+Attempted email assessment and completed 3 out of 5 mails in the assessment.
