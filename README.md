@@ -300,7 +300,7 @@ Prasad Sir To-Dos
 - My question "What should be the min and max length of a subject line in a mail"
 
 
-### Day-3 - 30th May, 2024 - Thursday - 10am to 11
+### Day-3 - 30th May, 2024 - Thursday - 10am to 12
 
 ***Tech***
 
