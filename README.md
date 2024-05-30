@@ -226,7 +226,7 @@ Trainer has taught about
 Researched and worked on
 - How emails make and break the bond between organisations/businesses and customers.
 
-### Day-2 29th May, 2024 - Tuesday - 10am to 11
+### Day-2 29th May, 2024 - Tuesday - 10am to 1.30am
 
 ***Tech***
 Trained on
@@ -271,6 +271,11 @@ Trained on
 Researched on
 - String vs String builder vs String buffer
 - Solved the problems on strings using pre-defined methods
+- Built a database in MYSql workbench using commands
+- Learned about how to access the data from the database
+- Create, Insert and Delete commands
+- Installed Command line URL
+- CURL commands
 
 Prasad Sir To-Dos
 - Work on Unix commands
@@ -283,7 +288,6 @@ Prasad Sir To-Dos
 - Database Creation and inserting data
 - Knowledge on Entity relationships
 
-
 ***Soft Skills***
 - Updated one slide profile for the day.
   Trainer has taught about
@@ -293,4 +297,24 @@ Prasad Sir To-Dos
 - Letting the receiver know about the attachments
 - Style of email is crucial as it creates an impression
 - PFA, FYI, FYA and other abbrevations.
-- 
+- My question "What should be the min and max length of a subject line in a mail"
+
+
+### Day-3 - 30th May, 2024 - Thursday - 10am to 11
+
+***Tech***
+Trainer taught about
+- Worked on building a Springboot static API
+- Accessing and building springboot API in VS Code
+- Using Postman to test the APIs.
+
+Researched and worked on
+- Annotations in Springboot.
+- What are GetMapping and PostMapping methods
+- Creating getter and setter in VS Code
+- What is PathVariable and RequestParam
+- What is RequestBody and what kind of data does it accepts
+- JSON object
+- Using Postman and tools like postman to test the API
+- Unix commands
+- Command to open an application and shut down the system.
