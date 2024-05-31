@@ -391,3 +391,9 @@ Researched and learnt about
 - Data instertion, traversing and removal in Doubly LinkedList
 - Creating a JSON data using an array of objects in Java
 - Logging levels, types of appenders and formats in error logging.
+
+
+***Soft skills***
+- Practiced delivering self introductions in less than an minute
+- Attended a mock intro call monitored by Mounika and Harsha.
+- Harsha has given a lot of insights based on the areas of improvements that we had.
