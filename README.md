@@ -361,6 +361,7 @@ Attempted email assessment and completed 3 out of 5 mails in the assessment.
 ### Day-4 - 31st May, 2024 - Friday - 10am to 12
 
 ***Tech***
+
 Trainer taught about
 -  Concept of iterables
 -  Iterator  - which is an interfance and works on any class
