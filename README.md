@@ -1,4 +1,4 @@
-# ITG_EAGLE_Training
+ # ITG_EAGLE_Training
 
 ## Week-1
 ### Day-0 20th May, 2024 - Monday - 2 to 11
@@ -373,7 +373,11 @@ Trainer taught about
 -  HashSet, LinkedHashSet, TreeSet.
 -  Properties of each of the sets
 -  Map Interface in Collections interface
+-  Keys and values in maps
 -  Maps are similiar to sets, but there will be a change in one of its methods. add in sets is Put in maps.
+-  Map.entry is the child interface of maps.
+-  Collection Interface and Collection class
+-  Comparable and comparator.
 
 Researched and learnt about
 - What is an API?
@@ -386,4 +390,4 @@ Researched and learnt about
 - Nature of Double LinkedList
 - Data instertion, traversing and removal in Doubly LinkedList
 - Creating a JSON data using an array of objects in Java
-- 
+- Logging levels, types of appenders and formats in error logging.
