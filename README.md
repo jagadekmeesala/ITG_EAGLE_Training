@@ -372,6 +372,8 @@ Trainer taught about
 -  Concept of Sets
 -  HashSet, LinkedHashSet, TreeSet.
 -  Properties of each of the sets
+-  Map Interface in Collections interface
+-  Maps are similiar to sets, but there will be a change in one of its methods. add in sets is Put in maps.
 
 Researched and learnt about
 - What is an API?
