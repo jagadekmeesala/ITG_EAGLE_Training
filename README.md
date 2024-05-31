@@ -350,9 +350,14 @@ My learnings from his suggestions are
 - The content of the mail body should be consise
 - While writing the body organisation, writing style and formality are some key aspects to look after
 - Sentence formation and vocabulary selection for a particular mail is important
-
+ 
 I have asked the trainer a question
 - What is the decent size of a subject line?
   Ans - As long as it is in a line(as the name suggests) it is good. Basically 5-6 lines will be good enough as long as it is conveying the message.
 
 Attempted email assessment and completed 3 out of 5 mails in the assessment.
+
+
+### Day-4 - 31st May, 2024 - Friday - 10am to 12
+
+***Tech***
