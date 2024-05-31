@@ -361,3 +361,26 @@ Attempted email assessment and completed 3 out of 5 mails in the assessment.
 ### Day-4 - 31st May, 2024 - Friday - 10am to 12
 
 ***Tech***
+Trainer taught about
+-  Concept of iterables
+-  Iterator  - which is an interfance and works on any class
+-  List Iterator - which is also an interface but is only restricted to list interface
+-  Enumerator which is a legacy class and can only be used on other legacy classes
+-  Methods in Iterator and ListIterator - hasNext(); , next(); , remove(); , hasPrevious(); , previous();
+-  Objects can also be iterated using iterator or ListIterator but type casting should be done while we are printing the output.
+-  Concept of Sets
+-  HashSet, LinkedHashSet, TreeSet.
+-  Properties of each of the sets
+
+Researched and learnt about
+- What is an API?
+- What is REST API and REST Service?
+- What does a Microservice mean?
+- Comparision and differentiation of API, REST API and Microservices.
+- Custom exceptions
+- Executing custom exceptions with throwable is not possible
+- throw() and throws() differences
+- Nature of Double LinkedList
+- Data instertion, traversing and removal in Doubly LinkedList
+- Creating a JSON data using an array of objects in Java
+- 
