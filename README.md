@@ -391,7 +391,7 @@ Researched and learnt about
 - Data instertion, traversing and removal in Doubly LinkedList
 - Creating a JSON data using an array of objects in Java
 - Logging levels, types of appenders and formats in error logging.
-
+- Practiced Uni commands
 
 ***Soft skills***
 - Practiced delivering self introductions in less than an minute
@@ -399,6 +399,20 @@ Researched and learnt about
 - Harsha has given a lot of insights based on the areas of improvements that we had.
 
 
-### Day-1 - 1st June, 2024 - Saturday - 10am to 11
+### Day-5 - 1st June, 2024 - Saturday - 10am to 11
 
 ***Tech***
+
+Trainer taught about
+-
+
+Researched about
+- Practice problems on Maps
+- Learnt about types of Maps
+- Problems on HashMaps, LinkedHashMaps and TreeMaps.
+- What does logging mean and why do we need to do it
+- Levels of Logging
+- Type of appenders
+- Layouts in logging
+- Formats in Logging
+- How Log4J tool in Java is good for error logging
