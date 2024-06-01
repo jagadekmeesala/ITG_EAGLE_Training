@@ -358,7 +358,7 @@ I have asked the trainer a question
 Attempted email assessment and completed 3 out of 5 mails in the assessment.
 
 
-### Day-4 - 31st May, 2024 - Friday - 10am to 12
+### Day-4 - 31st May, 2024 - Friday - 10am to 1.30
 
 ***Tech***
 
@@ -397,3 +397,8 @@ Researched and learnt about
 - Practiced delivering self introductions in less than an minute
 - Attended a mock intro call monitored by Mounika and Harsha.
 - Harsha has given a lot of insights based on the areas of improvements that we had.
+
+
+### Day-1 - 1st June, 2024 - Saturday - 10am to 11
+
+***Tech***
