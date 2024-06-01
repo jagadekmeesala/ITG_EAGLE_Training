@@ -415,4 +415,4 @@ Researched about
 - Type of appenders
 - Layouts in logging
 - Formats in Logging
-- How Log4J tool in Java is good for error logging
+- How Log4J framework in Java is good for error logging
