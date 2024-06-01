@@ -408,6 +408,9 @@ Trainer taught about
 - Write is the output and read is the input.
 - FileInput and FieOutput stream.
 - BufferedInput and BufferedOutput stream.
+- Serialiation
+- Deserialization.
+- Object input stream and output stream
 
 
 Researched about
@@ -425,3 +428,8 @@ Researched about
 - ByteArray Input and Output stream
 - Character Input and Output stream
 - Data Input stream and Output stream
+- Serialization
+- Deserialization
+- Transient keyword introduction
+- Object input stream and output stream problems
+- Serialiaztion and deserialization on Array list of objects.
