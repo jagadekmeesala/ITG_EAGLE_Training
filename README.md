@@ -420,6 +420,8 @@ Researched about
 - Layouts in logging
 - Formats in Logging
 - How Log4J framework in Java is good for error logging
-- File Input and Output streams
-- s
-- 
+- File Input and Output stream problems
+- Buffered Input stream and Buffered output stream problems
+- ByteArray Input and Output stream
+- Character Input and Output stream
+- Data Input stream and Output stream
