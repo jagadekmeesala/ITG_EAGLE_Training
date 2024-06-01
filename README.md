@@ -404,7 +404,11 @@ Researched and learnt about
 ***Tech***
 
 Trainer taught about
--
+- Types of Input and Output streams in java.
+- Write is the output and read is the input.
+- FileInput and FieOutput stream.
+- BufferedInput and BufferedOutput stream.
+
 
 Researched about
 - Practice problems on Maps
@@ -416,6 +420,6 @@ Researched about
 - Layouts in logging
 - Formats in Logging
 - How Log4J framework in Java is good for error logging
-- s
+- File Input and Output streams
 - s
 - 
