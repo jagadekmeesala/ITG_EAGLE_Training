@@ -8,3 +8,5 @@
 8. Write data into Properties file
 9. Read data from Properties file.
 10.Write a program on Serialization and Deserialization?
+11. Perform Serialization on array list of objects.
+12. Use transient key word in serialization.
