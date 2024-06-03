@@ -479,3 +479,11 @@ Researched about
 -- SQL
 - What does anomaly means
 - Types in TableSpaces
+- Documentation on
+- - What is SQL
+  - SQL properties
+  - ACID properties
+  - Why SQL is used
+  - History and evolution of SQL
+  - Differences between DBMS and RDBMS
+  - Database, Schema, Tables, columns and rows
