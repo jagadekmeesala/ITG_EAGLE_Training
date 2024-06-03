@@ -441,7 +441,7 @@ Researched about
 ***Tech***
 
 Trainer taught about
--
+- d
 
 Researched about
 -- Java
