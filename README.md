@@ -433,3 +433,19 @@ Researched about
 - Transient keyword introduction
 - Object input stream and output stream problems
 - Serialiaztion and deserialization on Array list of objects.
+
+
+## Week-3
+### Day-1 - 2nd June, 2024 - Monday - 2 to 11
+
+***Tech***
+
+Trainer taught about
+-
+
+Researched about
+-- Java
+- IO problems that were assigned to us
+- BufferedInput stream and BufferedOuput stream
+- Serialization and deserialization
+
