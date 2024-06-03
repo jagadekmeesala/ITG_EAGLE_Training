@@ -466,6 +466,7 @@ Trainer taught about
 - Temporary tables in SQL
 
 Researched about
+
 -- Java
 - IO problems that were assigned to us
 - BufferedInput stream and BufferedOuput stream
