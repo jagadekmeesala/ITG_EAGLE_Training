@@ -441,6 +441,7 @@ Researched about
 ***Tech***
 
 SQL sessions started today.
+
 Trainer taught about
 - Introduction to SQL
 - What is SQL
