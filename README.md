@@ -464,6 +464,8 @@ Trainer taught about
 - Datatypes in SQL - Integer, String, Date and Time, Large Object
 - Commands in SQL - DDL, DML, DCL, TCL, DQL.
 - Temporary tables in SQL
+- Giving access to a database
+- Inserting data into the database
 
 Researched about
 
