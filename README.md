@@ -449,4 +449,8 @@ Researched about
 - IO problems that were assigned to us
 - BufferedInput stream and BufferedOuput stream
 - Serialization and deserialization
-
+- Reading individual lines from a file and counting lines in a file.
+- Reading and writing from .properties file.
+- Method overloading and overriding.
+-- SQL
+- 
