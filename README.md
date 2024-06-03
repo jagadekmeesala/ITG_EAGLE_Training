@@ -474,6 +474,7 @@ Researched about
 - Reading individual lines from a file and counting lines in a file.
 - Reading and writing from .properties file.
 - Method overloading and overriding.
+- Abstraction, inheritance, encapsulation and polymorphism concepts
 
 -- SQL
 - What does anomaly means
