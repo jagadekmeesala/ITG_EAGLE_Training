@@ -442,7 +442,27 @@ Researched about
 
 SQL sessions started today.
 Trainer taught about
-- d
+- Introduction to SQL
+- What is SQL
+- Purpose of SQL (Data integrity, retrival, definition, security, integrity and so on)
+- How SQL have started and evolved
+- What is a database and how it is related to SQL
+- What is database management system
+- Types of database management systems - DBMS, RDBMS
+- How will the data be stored in a database (Logical and Physical)
+- Architecture of a Database
+- What is an instance in MYSQL
+- What are the components of a DB
+- Bufferpool and logs in a DB
+- What are table spaces and its types (Syscat, temp and user)
+- Applications of types of table spaces
+- RAM and Storage/Disk
+- ACID Properties (Atomicity, Consistency, Isolation and Durability)
+- Normalizations
+- Types of Normalisations and why they are used
+- Datatypes in SQL - Integer, String, Date and Time, Large Object
+- Commands in SQL - DDL, DML, DCL, TCL, DQL.
+- Temporary tables in SQL
 
 Researched about
 -- Java
@@ -452,5 +472,7 @@ Researched about
 - Reading individual lines from a file and counting lines in a file.
 - Reading and writing from .properties file.
 - Method overloading and overriding.
+
 -- SQL
-- 
+- What does anomaly means
+- Types in TableSpaces
