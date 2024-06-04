@@ -489,3 +489,5 @@ Researched about
   - History and evolution of SQL
   - Differences between DBMS and RDBMS
   - Database, Schema, Tables, columns and rows
+ 
+ ### Day-2 - 3rd June, 2024 - Tuesday - 10 to 12 - 2 to 11
