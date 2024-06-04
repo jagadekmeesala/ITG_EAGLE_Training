@@ -500,3 +500,31 @@ Researched about
 - Syntax to follow while dealing with operators
 - Clauses or Query Structure in SQL
 - Difference between Where and Having Keyword
+- Constraints in SQL
+- Forming a relationship between two tables
+- How constraints help in forming relations
+- Built in functions
+- Functions in SQL
+- On delete set null
+- On dekete cascade
+- Date functions
+- Window functions
+
+Researched about
+- Theory of SQL
+- Acid properties and concepts individually
+- Transactions in SQL
+- Data types in SQL
+- Int, String and Date and time
+- Commands in SQL
+- Data Definition Language
+- Data Manipulation Language
+- Data control language
+- Transaction control language
+- Data Query language
+- Various ways to use Select condition
+- Pattern matching operators
+- Set operators
+- Arthimetic operators
+- Constraints
+- Clauses
