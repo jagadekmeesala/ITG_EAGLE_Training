@@ -491,3 +491,12 @@ Researched about
   - Database, Schema, Tables, columns and rows
  
  ### Day-2 - 3rd June, 2024 - Tuesday - 10 to 12 - 2 to 11
+
+ ***Tech***
+ 
+ Trainer Taught about
+- Operators in SQL (Arthimetic, logical, Comparision, Set and Special operators)
+- Brief about each kind of operators.
+- Syntax to follow while dealing with operators
+- Clauses or Query Structure in SQL
+- Difference between Where and Having Keyword
