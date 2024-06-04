@@ -436,7 +436,7 @@ Researched about
 
 
 ## Week-3
-### Day-1 - 2nd June, 2024 - Monday - 10 to 12 - 2 to 11
+### Day-1 - 2nd June, 2024 - Monday - 10 to 12 - 2 to 12
 
 ***Tech***
 
