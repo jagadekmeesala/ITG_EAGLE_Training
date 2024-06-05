@@ -490,7 +490,7 @@ Researched about
   - Differences between DBMS and RDBMS
   - Database, Schema, Tables, columns and rows
  
- ### Day-2 - 3rd June, 2024 - Tuesday - 10 to 12 - 2 to 11
+ ### Day-2 - 3rd June, 2024 - Tuesday - 10 to 12 - 2 to 1
 
  ***Tech***
  
@@ -528,3 +528,39 @@ Researched about
 - Arthimetic operators
 - Constraints
 - Clauses
+
+
+### Day-3 - 4th June, 2024 - Wednesday - 10 to 12 - 2 to 1
+
+***Tech***
+
+Trainer taught about
+- Relational or Data Model
+- Joins in SQL
+- Inner, Full outer, Left, Right, Self, Cross, Nested join.
+- Sub queries - Single value sub query, multi value sub query.
+- Nested Sub queries
+- Views - Simple, complex
+- Materialistic views in OracleSQL
+- Auto Increment in MYSQL
+- Identity and Sequences out of MYSQL
+- Reason to create primary key and foreign key
+- Star Schema
+- Snowflake Schema
+- Introduction to PL/SQL
+- Procedures
+- Triggers
+- Loops
+- Cursors
+- Block of writing code in PL/SQL
+
+
+Researched about
+- Data types in SQL
+- Commands in SQL
+- Constraints
+- Comaprision Operators
+- Aggergate functions
+- Date functions
+- String functions
+- 
