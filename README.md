@@ -436,7 +436,7 @@ Researched about
 
 
 ## Week-3
-### Day-1 - 2nd June, 2024 - Monday - 10 to 12 - 2 to 12
+### Day-1 - 2nd June, 2024 - Monday - 10 to 1 - 2 to 12
 
 ***Tech***
 
@@ -490,7 +490,7 @@ Researched about
   - Differences between DBMS and RDBMS
   - Database, Schema, Tables, columns and rows
  
- ### Day-2 - 3rd June, 2024 - Tuesday - 10 to 12 - 2 to 1
+ ### Day-2 - 3rd June, 2024 - Tuesday - 10 to 1 - 2 to 1
 
  ***Tech***
  
@@ -530,7 +530,7 @@ Researched about
 - Clauses
 
 
-### Day-3 - 4th June, 2024 - Wednesday - 10 to 12 - 2 to 1
+### Day-3 - 4th June, 2024 - Wednesday - 10 to 1 - 2 to 12
 
 ***Tech***
 
@@ -555,6 +555,7 @@ Trainer taught about
 - Block of writing code in PL/SQL
 - Scenario based approach to write PL/SQL query
 - Case statement
+- Creating a procedure using a problem statement
 
 
 Researched about
@@ -566,5 +567,6 @@ Researched about
 - Date functions
 - String functions
 - Normal forms
-- 
-  
+- Completed day-1 Practice tasks and day-2 practice tasks till joins
+- Temporary tables
+- Concept of PL/SQL
