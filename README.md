@@ -554,6 +554,11 @@ Trainer taught about
 - Loops
 - Cursors
 - Block of writing code in PL/SQL
+- Declaration - for declaring variables
+- Begin - To start the code
+- End - To end the code
+- Start and end are important
+- Exception - For exception handling.
 - Scenario based approach to write PL/SQL query
 - Case statement
 - Creating a procedure using a problem statement
