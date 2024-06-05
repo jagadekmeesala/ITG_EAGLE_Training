@@ -565,4 +565,6 @@ Researched about
 - Aggergate functions
 - Date functions
 - String functions
+- Normal forms
+- 
   
