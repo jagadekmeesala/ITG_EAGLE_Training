@@ -553,6 +553,8 @@ Trainer taught about
 - Loops
 - Cursors
 - Block of writing code in PL/SQL
+- Scenario based approach to write PL/SQL query
+- Case statement
 
 
 Researched about
@@ -563,4 +565,4 @@ Researched about
 - Aggergate functions
 - Date functions
 - String functions
-- 
+  
