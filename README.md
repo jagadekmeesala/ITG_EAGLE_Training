@@ -566,7 +566,7 @@ Researched about
 - Aggergate functions
 - Date functions
 - String functions
-- Normal forms
+- Normal forms 
 - Completed day-1 Practice tasks and day-2 practice tasks till joins
 - Temporary tables
 - Concept of PL/SQL
