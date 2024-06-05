@@ -542,6 +542,7 @@ Trainer taught about
 - Nested Sub queries
 - Views - Simple, complex
 - Materialistic views in OracleSQL
+- Index and its types
 - Auto Increment in MYSQL
 - Identity and Sequences out of MYSQL
 - Reason to create primary key and foreign key
