@@ -583,6 +583,7 @@ Researched about
 Trainer taught about
 - Data Movement Utilities
 - Ways to import and export data into databases
+- Use cases of Importing and Exporting data
 
 Linux training has started today
 - Linux Operating system - introduction
