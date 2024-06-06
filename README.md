@@ -576,3 +576,9 @@ Researched about
 - Completed day-1 Practice tasks and day-2 practice tasks till joins
 - Temporary tables
 - Concept of PL/SQL
+
+
+### Day-4 - 6th June, 2024 - Thursday - 10am to 1 - 2 to 11
+
+Trainer taught about
+- Relational or Data Model
