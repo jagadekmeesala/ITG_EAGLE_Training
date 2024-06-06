@@ -436,7 +436,7 @@ Researched about
 
 
 ## Week-3
-### Day-1 - 2nd June, 2024 - Monday - 10 to 1 - 2 to 12
+### Day-1 - 3rd June, 2024 - Monday - 10 to 1 - 2 to 12
 
 ***Tech***
 
@@ -490,7 +490,7 @@ Researched about
   - Differences between DBMS and RDBMS
   - Database, Schema, Tables, columns and rows
  
- ### Day-2 - 3rd June, 2024 - Tuesday - 10 to 1 - 2 to 1
+ ### Day-2 - 4th June, 2024 - Tuesday - 10 to 1 - 2 to 1
 
  ***Tech***
  
@@ -530,7 +530,7 @@ Researched about
 - Clauses
 
 
-### Day-3 - 4th June, 2024 - Wednesday - 10 to 1 - 2 to 12
+### Day-3 - 5th June, 2024 - Wednesday - 10 to 1 - 2 to 12
 
 ***Tech***
 
