@@ -583,3 +583,25 @@ Researched about
 Trainer taught about
 - Data Movement Utilities
 - Ways to import and export data into databases
+- Linux Operatiing system - introduction
+- Architecture of Linux
+- Difference between Linux and Unix
+- Putty in Linux
+- File system in Linux
+- Online Manual handling command (MAN)
+- Different types of Linux commands
+- File manipulation, Directories, Network or Communication commands, Filter commands, Archive commands
+- Process / job control commands
+- Text manipulation commands
+- Information commands
+- Miscallaneous and shell programming commands
+
+
+Researched and learnt about
+- Joins and how will they be used based on scenarios
+- Inner join, Right join, left join, Full outer join, Natural join, Cross join.
+- Sub querying
+- Creating a procedure in MySQL
+- Create or Replace and its usage in creating a procedure
+- Triggers in MySQL
+- 
