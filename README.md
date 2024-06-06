@@ -581,4 +581,5 @@ Researched about
 ### Day-4 - 6th June, 2024 - Thursday - 10am to 1 - 2 to 11
 
 Trainer taught about
-- Relational or Data Model
+- Data Movement Utilities
+- Ways to import and export data into databases
