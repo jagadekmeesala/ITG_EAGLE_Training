@@ -583,7 +583,9 @@ Researched about
 Trainer taught about
 - Data Movement Utilities
 - Ways to import and export data into databases
-- Linux Operatiing system - introduction
+
+Linux training has started today
+- Linux Operating system - introduction
 - Architecture of Linux
 - Difference between Linux and Unix
 - Putty in Linux
@@ -594,14 +596,18 @@ Trainer taught about
 - Process / job control commands
 - Text manipulation commands
 - Information commands
-- Miscallaneous and shell programming commands
+- Miscellaneous and shell programming commands
 
-
-Researched and learnt about
+Researched and learned about
 - Joins and how will they be used based on scenarios
 - Inner join, Right join, left join, Full outer join, Natural join, Cross join.
 - Sub querying
 - Creating a procedure in MySQL
 - Create or Replace and its usage in creating a procedure
 - Triggers in MySQL
-- 
+- Task on Data Movement Utilities
+- Practiced and learned about a few Linux commands
+- Practiced some problems on joins
+- Concept of Cursor
+- Problems on Cursor
+- Triggers and its concept
