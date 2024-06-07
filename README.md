@@ -619,3 +619,13 @@ Researched and learned about
 
 Researched and learned about
 - Completed data movement utilitites tasks (Day-4 Pl/SQL tasks)
+- Executed linux commands
+- shell scripting in vi editor
+- File manipulation commands in Linux and their uses
+- Directory commands
+- File system and administration commands
+- Network commands
+- Filter commands
+- Process commands
+- Miscellaneous commands
+- Shell scripting commands
