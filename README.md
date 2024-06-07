@@ -578,7 +578,7 @@ Researched about
 - Concept of PL/SQL
 
 
-### Day-4 - 6th June, 2024 - Thursday - 10am to 1 - 2 to 11
+### Day-4 - 6th June, 2024 - Thursday - 10am to 1 - 2 to 12
 
 Trainer taught about
 - Data Movement Utilities
@@ -612,3 +612,7 @@ Researched and learned about
 - Concept of Cursor
 - Problems on Cursor
 - Triggers and its concept
+
+
+### Day-5 - 7th June, 2024 - Friday - 10 to 1 - 2 to 12
+
