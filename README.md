@@ -637,3 +637,5 @@ Researched and learned about
 - Process commands
 - Miscellaneous commands
 - Shell scripting commands
+- Inserting data to the DB from Spring boot
+- Updating data to DB from Springboot
