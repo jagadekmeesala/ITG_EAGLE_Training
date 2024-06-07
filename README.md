@@ -616,7 +616,15 @@ Researched and learned about
 
 ### Day-5 - 7th June, 2024 - Friday - 10 to 1 - 2 to 12
 
-
+Today, Java trainer has discussed about how to establish a connection with JDBC
+Trainer taught about
+- What does JDBC mean
+- Spring boot and Spring JDBC
+- Steps to establish a connection of DB (Mysql) for a java code
+- JDBC and Named Parameter JDBC template
+- CRUD operations using springboot
+- Inserting and Updating data to a database from Java code
+  
 Researched and learned about
 - Completed data movement utilitites tasks (Day-4 Pl/SQL tasks)
 - Executed linux commands
