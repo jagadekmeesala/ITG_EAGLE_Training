@@ -622,8 +622,10 @@ Trainer taught about
 - Spring boot and Spring JDBC
 - Steps to establish a connection of DB (Mysql) for a java code
 - JDBC and Named Parameter JDBC template
+- Adding dependency to pom.xml file
 - CRUD operations using springboot
 - Inserting and Updating data to a database from Java code
+
   
 Researched and learned about
 - Completed data movement utilitites tasks (Day-4 Pl/SQL tasks)
@@ -632,6 +634,7 @@ Researched and learned about
 - Cursors in PL/SQL
 - Executed linux commands
 - shell scripting in vi editor
+- Crontab in Shell scripting
 - File manipulation commands in Linux and their uses
 - Directory commands
 - File system and administration commands
@@ -642,3 +645,6 @@ Researched and learned about
 - Shell scripting commands
 - Inserting data to the DB from Spring boot
 - Updating data to DB from Springboot
+- Adding dependencies to xml file
+- Adding url, admin name and password to db connection file in resources folder.
+
