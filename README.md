@@ -616,3 +616,6 @@ Researched and learned about
 
 ### Day-5 - 7th June, 2024 - Friday - 10 to 1 - 2 to 12
 
+
+Researched and learned about
+- Completed data movement utilitites tasks (Day-4 Pl/SQL tasks)
