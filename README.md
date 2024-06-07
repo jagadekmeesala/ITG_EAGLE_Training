@@ -635,7 +635,7 @@ Researched and learned about
 - File manipulation commands in Linux and their uses
 - Directory commands
 - File system and administration commands
-- Network commands
+- Network commands 
 - Filter commands
 - Process commands
 - Miscellaneous commands
