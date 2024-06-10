@@ -650,3 +650,5 @@ Researched and learned about
 
 ## Week-4
 ### Day-1 - 10th June, 2024 - Monday - 2 to 12
+
+Practiced SQL, PL/SQL, Linux and Java.
