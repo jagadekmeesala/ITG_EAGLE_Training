@@ -648,3 +648,5 @@ Researched and learned about
 - Adding dependencies to xml file
 - Adding url, admin name and password to db connection file in resources folder.
 
+## Week-4
+### Day-1 - 10th June, 2024 - Monday - 2 to 12
