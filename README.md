@@ -652,3 +652,8 @@ Researched and learned about
 ### Day-1 - 10th June, 2024 - Monday - 2 to 12
 
 Practiced SQL, PL/SQL, Linux and Java.
+Attempted SQL, PL/SQL and Linux written and viva evaluation.
+
+### Day-2 - 10th June, 2024 - Monday - 2 to 12
+
+Attempted Java written evaluation.
