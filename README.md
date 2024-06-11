@@ -654,6 +654,26 @@ Researched and learned about
 Practiced SQL, PL/SQL, Linux and Java.
 Attempted SQL, PL/SQL and Linux written and viva evaluation.
 
-### Day-2 - 10th June, 2024 - Monday - 2 to 12
+### Day-2 - 10th June, 2024 - Monday - 10 - 1 2 to 12
 
-Attempted Java written evaluation.
+Today, in the morning session I have attempted Java written evaluation.
+I have revised the Core Java concepts that were taught for the past 2 weeks
+Few of the concepts that I put more focus on were
+- Java Virtual Machine and its components
+- Class loader, Memory area and Execution engine
+- Method overloading and overriding
+- Ambiguity occurance
+- Abstraction
+- Inheritance
+- String and String methods
+- Heap and String constant pool
+- Exceptions, errors and Exception handling
+- RequestMapping, AutoWired, Controller, Service, GetMapping and PostMapping
+- Iterable, Iterator and ListIterator
+- Collections in Java
+- Rest Service using Spring
+- Comparable and Comparator
+- File I/O streams
+- Serialization
+
+I have attempted evaluation (Viva voce) conducted by the trainer
