@@ -654,7 +654,7 @@ Researched and learned about
 Practiced SQL, PL/SQL, Linux and Java.
 Attempted SQL, PL/SQL and Linux written and viva evaluation.
 
-### Day-2 - 10th June, 2024 - Monday - 10 - 1 2 to 12
+### Day-2 - 11th June, 2024 - Tuesday - 10 - 1 2 to 12
 
 Today, in the morning session I have attempted Java written evaluation.
 I have revised the Core Java concepts that were taught for the past 2 weeks
@@ -677,3 +677,6 @@ Few of the concepts that I put more focus on were
 - Serialization
 
 I have attempted evaluation (Viva voce) conducted by the trainer
+
+
+### Day-2 - 12th June, 2024 - Wednesday - 10 - 1 2 to 12
