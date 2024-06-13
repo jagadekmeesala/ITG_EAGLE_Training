@@ -1,4 +1,4 @@
- # ITG_EAGLE_Training
+# ITG_EAGLE_Training
 
 ## Week-1
 ### Day-0 - 20th May, 2024 - Monday - 2 to 11
@@ -682,30 +682,30 @@ I have attempted evaluation (Viva voce) conducted by the trainer
 ### Day-2 - 12th June, 2024 - Wednesday - 10 - 1 2 to 12
 
 ***Tech Practice***
-    Insertion and selection on Map objects using Spring JDBC
-    Employee data using JDBC
-    Worked on building a RESTAPI
-    Performing basic Arithmetic operations
-    Connecting DB to a Spring API
-    Understood the basic annotations sent by the trainer
-    Get mapping and Post Mapping
-    End points in API (GET, PUT, POST, DELETE)
+- Insertion and selection on Map objects using Spring JDBC
+- Employee data using JDBC
+- Worked on building a RESTAPI
+- Performing basic Arithmetic operations
+- Connecting DB to a Spring API
+- Understood the basic annotations sent by the trainer
+- Get mapping and Post Mapping
+- End points in API (GET, PUT, POST, DELETE)
 
 ***Tech***
-    Testing an API
-    Types of testings
-    Researched about testing and it's life cycle
-    Importance of Unit testing
-    Life cycle of testing
-    What are testcases and why do we use them
-    JUnit - Testing framework
-    Annotations in Junit - @after, @before, @ignore, @test and so on
-    Research on Mockito
-    Annotations, Assertions in Mockito
-    Difference between Mockito and JUnit
-    Other available options to test Spring Application
+- Testing an API
+- Types of testings
+- Researched about testing and it's life cycle
+- Importance of Unit testing
+- Life cycle of testing
+- What are testcases and why do we use them
+- JUnit - Testing framework
+- Annotations in Junit - @after, @before, @ignore, @test and so on
+- Research on Mockito
+- Annotations, Assertions in Mockito
+- Difference between Mockito and JUnit
+- Other available options to test Spring Application
 
 ***Soft skills***
-    Revised the materials of "Email etiquette and Presentation Etiquette"
-    Worked on Tenses and Verbs.
-    Had an over view of the sentence formation presentation in the website.
+- Revised the materials of "Email etiquette and Presentation Etiquette"
+- Worked on Tenses and Verbs.
+- Had an over view of the sentence formation presentation in the website.
