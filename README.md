@@ -713,3 +713,36 @@ I have attempted evaluation (Viva voce) conducted by the trainer
 
 ### Day-4 - 13th Jun, 2024 - Thursday - 10 to 1 - 2 to 12
 
+***Tech Practice and Research***
+- Worked on adding test cases to a simple static website
+- Worked on building Spring API for a table containing different
+- Understood how to write testcases
+- Learnt how test case is different from a test scenario
+- Unit testing vs Integration testing
+- Blackbox testing vs Whitebox testing
+- Levels of a software project and how testing plays an important role there
+- Assertions and annotations in Junit and Mockito
+- Test Driven Development
+- How TDD is important
+- How does TDD differ from Unit testing
+
+***Tech Training***
+Trainer has exhibited a demo on how to write test cases for a spring API
+- Testcases in Junit and Mockito
+- What is Mockito
+- Differences between Junit and Mockito
+- Mockito uses Java Reflection API
+- What are the methods in Mockito
+- Integration testing is Example of Blackbox testing
+- Unit testing is an example of Automation and Whitebox testing
+
+***Practice Presentation - Miracle EDGE***
+We had a practice presentation from Miracle Edge team which focused on tools, techniques and technologies used for Integrating using platforms
+- It is mostly focused on Integrating using tools from IBM and Google
+- They have prioritised how cloud has changed the market space
+- They have explained the technical architecture of an integration platform
+- They have concentrated on how integration is crucial for an organisation's development
+- We have also got to know about various tools and technologies that are used for Integration of 2 appliactions
+- We got to know how a firewal works and what is security transformation routing
+Overall the session was interactive and full of knowledge.
+At the end we had an amazing Q&A session where we were able to clear our doubts.
