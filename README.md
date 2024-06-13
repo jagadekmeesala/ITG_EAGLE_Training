@@ -716,6 +716,7 @@ I have attempted evaluation (Viva voce) conducted by the trainer
 ***Tech Practice and Research***
 - Worked on adding test cases to a simple static website
 - Worked on building Spring API for a table containing different
+- Have done a task in Spring JDBC where it contains all employees details and it generates work mail and password by itself
 - Understood how to write testcases
 - Learnt how test case is different from a test scenario
 - Unit testing vs Integration testing
