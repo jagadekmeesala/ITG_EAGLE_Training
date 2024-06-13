@@ -727,6 +727,7 @@ I have attempted evaluation (Viva voce) conducted by the trainer
 - How does TDD differ from Unit testing
 
 ***Tech Training***
+
 Trainer has exhibited a demo on how to write test cases for a spring API
 - Testcases in Junit and Mockito
 - What is Mockito
@@ -737,6 +738,7 @@ Trainer has exhibited a demo on how to write test cases for a spring API
 - Unit testing is an example of Automation and Whitebox testing
 
 ***Practice Presentation - Miracle EDGE***
+
 We had a practice presentation from Miracle Edge team which focused on tools, techniques and technologies used for Integrating using platforms
 - It is mostly focused on Integrating using tools from IBM and Google
 - They have prioritised how cloud has changed the market space
