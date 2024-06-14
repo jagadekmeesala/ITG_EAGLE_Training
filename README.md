@@ -752,3 +752,30 @@ At the end we had an amazing Q&A session where we were able to clear our doubts.
 
 
 ### Day-5 - 14th Jun, 2024 - Friday - 9 to 1 - 2 to 12
+
+***Workshop on Cloud***
+
+Today, we had a workshop from the Cloud engineering and Infrastructure practice where the Practice manager of Cloud Engineering along with his leads and team has come to us to teach us the importance of cloud in this fast developing market
+We have learnt about
+- What is cloud and what are types of it
+- Who are the major cloud providers in the market
+- Difference between On-premises and Cloud
+- Is cloud reall invisible? (NO!)
+- What does a data center mean?
+- Virtualization
+- What does a server mean?
+- Serverless computing
+- Demo session on how to create Azure account that gives credits for a month.
+- Getting comfortable with Aure
+- Creating a guest user in Azure
+- Costing of different services on Azure.
+- What is a Virtual Machine and Why are we using it
+- Creating a Virtual Machine on Azure
+- Accessing a virtual machine
+- Editing a virtual Machine while it is running.
+- Scaling up and scaling down in cloud.
+- Connecting Virtual Machine to On-Premises system
+- What is NGINX and how to access it using Linux
+- Building and deploying a static HTML code on NGINX
+- 
+- 
