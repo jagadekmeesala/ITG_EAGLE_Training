@@ -749,3 +749,6 @@ We had a practice presentation from Miracle Edge team which focused on tools, te
 - We got to know how a firewal works and what is security transformation routing
 Overall the session was interactive and full of knowledge.
 At the end we had an amazing Q&A session where we were able to clear our doubts.
+
+
+### Day-5 - 14th Jun, 2024 - Friday - 9 to 1 - 2 to 12
