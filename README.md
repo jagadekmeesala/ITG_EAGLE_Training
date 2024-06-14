@@ -777,5 +777,29 @@ We have learnt about
 - Connecting Virtual Machine to On-Premises system
 - What is NGINX and how to access it using Linux
 - Building and deploying a static HTML code on NGINX
-- 
-- 
+- Difference between Azure, AWS and GCP
+- Based on the scenario which one is ideal to choose
+
+
+***Technical Practice***
+- Building a Virtual Machine on Azure
+- Connecting it with Terminal in Linux
+- Working on creating a SQL Server
+- Connecting the server to SQL Database
+- Creating a guest user on the parent account
+- Accessing the guest user account
+- Checking the processes and status of the virtual network
+
+***Feedback on the Workshop***
+The workshop on Cloud, Devops, Azure and AWS was interactive and has given a scope to learn new technologies.
+*Pros*
+- Live demo of the explanations were amazing
+- Simple and used easy to understandable language, where the trainers has taken a lot of efforts to understand.
+- Trainers and team were flexible enough to extend the sessions when we are in doubt
+
+*Cons*
+- It would have been amazing if the sessions were consise and has given us more time to understand the concepts more
+- It would have been great if we got more time to work on the hands-on, than just explaining it to us
+- There were times, where people were not attentive to the trainer, but that has not been adressed
+
+I really understand the constraints the team has in terms of time and, and I would like to extend my sincere gratitude to each of the training team member's hardwork and efforts to put up an amazing show.
