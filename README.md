@@ -803,3 +803,9 @@ The workshop on Cloud, Devops, Azure and AWS was interactive and has given a sco
 - There were times, where people were not attentive to the trainer, but that has not been adressed
 
 I really understand the constraints the team has in terms of time and, and I would like to extend my sincere gratitude to each of the training team member's hardwork and efforts to put up an amazing show.
+
+
+## Week-5
+### Day-1 - 17th June, 2024 - Monday - 2 to 12
+
+***Tech Practice***
