@@ -11,7 +11,7 @@
 - JRE
 - Class loaders
 - Class, Object, Method and Instance
-- JVM
+- JVM 
 - Data Types
 - Variables and its scope
 - Research on basics of Java
