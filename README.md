@@ -809,3 +809,34 @@ I really understand the constraints the team has in terms of time and, and I wou
 ### Day-1 - 17th June, 2024 - Monday - 2 to 12
 
 ***Tech Practice***
+- Trainer has assigned task, which is the continuation of the previous week's tasks of Employee table and Projects table
+- Learnt about File Externalization.
+- I have created an SQL server and SQL database on Azure cloud
+- Used the SQL server to connect it to a local database
+- I have run the Spring boot application while it was connected to Azure Database 
+- I have run the previous application(task) and added authentication of "Admin only perform operations"
+- I have did unit testing using JUnit to verify the functionning of Endpoints (Put, Get, Post, Delete)
+- The code coverage of the Controller class is 67%
+- Started to write test cases for Service layer also, as the crucial functioning takes place in Service class
+- I have created test folder and implemented Service and Control layers testing in it.
+- I have learnt the basics of Mockito and tried implementing it to a Service layer
+- Written test case for Service layer using Mockito and JUnit
+- I have did unit testing using Junit and Mockito for a Spring boot JDBC application
+
+  
+***Soft skills***
+  
+  The trainer has taught telephone etuqiette
+- In telephonic conversations, message is communicated through voice and it plays a crucial role in creating impression
+- While picking up a phone call, we have to be polite in answering and asking the reason of their call
+- Formal and Internal are 2 kinds while picking up a call as a part of an organization
+- While answering others calls we have to intimate others that the responsible person is away/occupied in other work and I am assisting on behalf of them.
+- We have to keep in mind that the international calls will have a lag of 2 or more than 2 seconds and we have to be aware of that.
+- While putting in a conference call or putting someone on speaker, we have to take their consent
+- Once the work is done, we have to let them know that they are off the speaker
+- Trainer has discussed about some tips for participating in business calls
+- Taking a note of the conersation along with the tone that we spoke helps for a later point of time
+- Knowing difference between private conversation and business/professional conversation is important
+- Using please and thank you adds value to the conversation
+- Be courteous and respectful on a call
+- We should not raise voice or disrespect others on call as it is not a good practice.
