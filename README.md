@@ -856,7 +856,8 @@ I really understand the constraints the team has in terms of time and, and I wou
 ***Tech Practice***
 - I have practiced about the annotations in Springboot application and how do they help in configuring JDBC application
 - I have worked on the task assigned by the trainer which is about integrating tables and fetching data from them.
-- implementing authentication on the table
+- Implementing authentication on the table
+- I helped my colleagues in establishing connection of Azure to a MySQL local instance. 
 - What does RowMapper and PropertyBeanRowMapper mean
 - Methods in HTTPS
 - Methods in SpringBoot application
@@ -872,6 +873,7 @@ I really understand the constraints the team has in terms of time and, and I wou
 - Forms in HTML
 
 ***Soft skills***
+
 Trainer has continued the concept of Telephone Etiquette and introduced the concept of Active listening along with telephone etiquette
 - When do customers feel dissatisfied
   - Employee/Executive's tone and behaviour
