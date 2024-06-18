@@ -845,9 +845,40 @@ I really understand the constraints the team has in terms of time and, and I wou
 ### Day-2 - 18th June, 2024 - Tuesday - 10 to 1 - 2 to 12
 
 ***Tech Practice***
+- I have practiced about the annotations in Springboot application and how do they help in configuring JDBC application
+- I have worked on the task assigned by the trainer which is about integrating tables and fetching data from them.
+- implementing authentication on the table
+- What does RowMapper and PropertyBeanRowMapper mean
+- Methods in HTTPS
+- Methods in SpringBoot application
+- Practiced HTML basics from tutorial pages
+- I have designed a basic appliaction form using HTML and styling using CSS
 
+***Tech Training***
+- Trainer has taught HTML
+- Tags in HTML
+- Anchor and attributes in HTML
+- Forms in HTML
 
 ***Soft skills***
+Trainer has continued the concept of Telephone Etiquette and introduced the concept of Active listening along with telephone etiquette
+- When do customers feel dissatisfied
+  - Employee/Executive's tone and behaviour
+  - Putting someone on hold for a long time
+  - Not properly responding back while the other person is asking questions
+- How to answer while some one is away and the sender needs to convey a message to the receiver.
+- Active Listening and it's benefits
+- How making eye contact with speaker makes a positive impression on us
+- Asking good questions to clarify doubts
+- Asking meaningful questions that adds value is crucial, than just asking to make fun out of others.
+- Being non-judgemental throughout
+- Restating what speaker has shared in the session is a good habit of active listening
+- Paraphrasing
+- Involving in more conversations helps to be a good active listener
+- Being in a state that others are aware of our feeling is not a good practice
+- Being ready for open-ended conversations (when time allows and depends on situations)
+- Giving free advices is a bad practice (when not asked)
+- Paying attention to details while others are speaking is important (Noting down is a good habit)
 
 
 
