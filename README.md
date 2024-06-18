@@ -843,3 +843,8 @@ I really understand the constraints the team has in terms of time and, and I wou
 
 
 ### Day-2 - 18th June, 2024 - Tuesday - 10 to 1 - 2 to 12
+
+***Tech Practice***
+
+
+***Soft skills***
