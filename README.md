@@ -840,3 +840,6 @@ I really understand the constraints the team has in terms of time and, and I wou
 - Using please and thank you adds value to the conversation
 - Be courteous and respectful on a call
 - We should not raise voice or disrespect others on call as it is not a good practice.
+
+
+### Day-2 - 18th June, 2024 - Tuesday - 10 to 1 - 2 to 12
