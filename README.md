@@ -812,7 +812,7 @@ I really understand the constraints the team has in terms of time and, and I wou
 - Task -4 - Employees task + roles + projects - Letting PM and HR add projects into the projects table - Done
 - Task -5 - File Externalization - Create a MySQL Server on Azure and connect it to a local MySQL instance - Not done
 - Task -6 - Employees task + roles + projects + project_Emp_details - Not done
-
+ 
 
 ## Week-5
 ### Day-1 - 17th June, 2024 - Monday - 2 to 12
