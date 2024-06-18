@@ -870,6 +870,10 @@ I really understand the constraints the team has in terms of time and, and I wou
 - Tags in HTML
 - Structure of a HTML page
 - Anchor and attributes in HTML
+- Buttons in HTML
+- Lists and it's types
+- Tables in HTML
+- Tables in HTML
 - Forms in HTML
 
 ***Soft skills***
