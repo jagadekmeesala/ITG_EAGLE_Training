@@ -805,6 +805,15 @@ The workshop on Cloud, Devops, Azure and AWS was interactive and has given a sco
 I really understand the constraints the team has in terms of time and, and I would like to extend my sincere gratitude to each of the training team member's hardwork and efforts to put up an amazing show.
 
 
+---***Practice Tasks on Spring Boot***---
+- Task -1 - Students task - Inserting and retrieving all students data in form of a Map - Not done
+- Task -2 - Employees task - Adding employees into the table and performing CRUD operations - Done
+- Task -3 - Employees task + roles - Adding authentication to the table where only admin can perform operations on the table - Done
+- Task -4 - Employees task + roles + projects - Letting PM and HR add projects into the projects table - Done
+- Task -5 - File Externalization - Create a MySQL Server on Azure and connect it to a local MySQL instance - Not done
+- Task -6 - Employees task + roles + projects + project_Emp_details - Not done
+
+
 ## Week-5
 ### Day-1 - 17th June, 2024 - Monday - 2 to 12
 
@@ -858,9 +867,9 @@ I really understand the constraints the team has in terms of time and, and I wou
 ***Tech Training***
 - Trainer has taught HTML
 - Tags in HTML
+- Structure of a HTML page
 - Anchor and attributes in HTML
 - Forms in HTML
-
 
 ***Soft skills***
 Trainer has continued the concept of Telephone Etiquette and introduced the concept of Active listening along with telephone etiquette
@@ -882,15 +891,3 @@ Trainer has continued the concept of Telephone Etiquette and introduced the conc
 - Giving free advices is a bad practice (when not asked)
 - Paying attention to details while others are speaking is important (Noting down is a good habit)
 
-
-
-
-
-
----***Practice Tasks on Spring Boot***---
-- Task -1 - Students task - Inserting and retrieving all students data in form of a Map - Not done
-- Task -2 - Employees task - Adding employees into the table and performing CRUD operations - Done
-- Task -3 - Employees task + roles - Adding authentication to the table where only admin can perform operations on the table - Done
-- Task -4 - Employees task + roles + projects - Letting PM and HR add projects into the projects table - Done
-- Task -5 - File Externalization - Create a MySQL Server on Azure and connect it to a local MySQL instance - Not done
-- Task -6 - Employees task + roles + projects + project_Emp_details - Not done
