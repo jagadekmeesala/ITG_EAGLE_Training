@@ -851,14 +851,16 @@ I really understand the constraints the team has in terms of time and, and I wou
 - What does RowMapper and PropertyBeanRowMapper mean
 - Methods in HTTPS
 - Methods in SpringBoot application
+- Types of elements in HTML
 - Practiced HTML basics from tutorial pages
-- I have designed a basic appliaction form using HTML and styling using CSS
+- I have designed a basic application form using HTML and styling using CSS
 
 ***Tech Training***
 - Trainer has taught HTML
 - Tags in HTML
 - Anchor and attributes in HTML
 - Forms in HTML
+
 
 ***Soft skills***
 Trainer has continued the concept of Telephone Etiquette and introduced the concept of Active listening along with telephone etiquette
