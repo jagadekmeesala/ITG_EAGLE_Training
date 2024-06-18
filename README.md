@@ -848,3 +848,16 @@ I really understand the constraints the team has in terms of time and, and I wou
 
 
 ***Soft skills***
+
+
+
+
+
+
+---***Practice Tasks on Spring Boot***---
+- Task -1 - Students task - Inserting and retrieving all students data in form of a Map - Not done
+- Task -2 - Employees task - Adding employees into the table and performing CRUD operations - Done
+- Task -3 - Employees task + roles - Adding authentication to the table where only admin can perform operations on the table - Done
+- Task -4 - Employees task + roles + projects - Letting PM and HR add projects into the projects table - Done
+- Task -5 - File Externalization - Create a MySQL Server on Azure and connect it to a local MySQL instance - Not done
+- Task -6 - Employees task + roles + projects + project_Emp_details - Not done
