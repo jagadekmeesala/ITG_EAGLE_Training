@@ -921,6 +921,7 @@ Trainer has continued the concept of Telephone Etiquette and introduced the conc
 - Logic to build employees details and task list applications
 
 ***Soft skills***
+
 Today trainer has taken a session on Note making
 - Note making in 2 different situations
 - Live situations like lectures and making notes from sources like web
