@@ -896,3 +896,4 @@ Trainer has continued the concept of Telephone Etiquette and introduced the conc
 - Giving free advices is a bad practice (when not asked)
 - Paying attention to details while others are speaking is important (Noting down is a good habit)
 
+### Day-3 - 19th June, 2024 - Wednesday - 10 to 1 - 2 to 12
