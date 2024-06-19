@@ -897,3 +897,41 @@ Trainer has continued the concept of Telephone Etiquette and introduced the conc
 - Paying attention to details while others are speaking is important (Noting down is a good habit)
 
 ### Day-3 - 19th June, 2024 - Wednesday - 10 to 1 - 2 to 12
+
+***Tech Training***
+- Trainer has taught about JavaScript
+- Integrating HTML with JavaScript to make web pages interactive
+- Client - Server Architecture
+- Return type in JS
+- Datatypes in Javascript
+- Varibles in javascript
+- Methods to take inputs
+- Types of print statements in Javascript
+- Control statements in JavaScript
+
+***Tech Practice***
+- Worked on building a HTML page integarated with JS that does arthimetic operations
+- Built a calculator application
+- CSS to style a HTML application
+- Understood Rowmapper and bean property rowmapper in spring boot
+- Beans in spring
+- Springboot and its types
+- Spring boot vs Spring framework
+- 4 HTTPS methods in Microservices (Spring boot)
+- Logic to build employees details and task list applications
+
+***Soft skills***
+Today trainer has taken a session on Note making
+- Note making in 2 different situations
+- Live situations like lectures and making notes from sources like web
+- Notes are used for reasearch and to memorise
+- Notes are used to look back after a period of time
+- Having a template for note making is a good thing to do
+- Template anticipating the session format
+- What kind of information to retrive from each source
+- Notes that you have written should be accessible to everyone
+- Distinguishing notes by adding colours helps to memorize the topics better
+- Remembering each colour has different usage(personal identification) helps to retrive data better from notes
+- Short hand is a good way to make notes in a fast paced session
+- Leaving sufficient space at the end of the session helps to add more data at a later point
+- Mindmapping (spider map) is best thing to keep things connected and organised
