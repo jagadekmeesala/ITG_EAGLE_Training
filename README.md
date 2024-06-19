@@ -25,7 +25,7 @@
 - Initial assessment
 
 ***HR***
-- Accessing corporate credntials
+- Accessing corporate credentials
 - Zimbra mail
 - Hubble
 - MTalk
