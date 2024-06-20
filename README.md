@@ -938,5 +938,30 @@ Today trainer has taken a session on Note making
 - Mindmapping (spider map) is best thing to keep things connected and organised
 
 
-### Day-3 - 20th June, 2024 - Thursday - 10 to 1 - 2 to 12
+### Day-4 - 20th June, 2024 - Thursday - 10 to 1 - 2 to 12
 
+***Tech Practice***
+- Worked on the task assigned by the trainer (i.e Employees DB task)
+- Creating a new table in the DB and then using JDBC re-directing the data into it.
+- I have researched about the differences between object oriented vs object based programming language
+- Prototype based programming language
+- Practiced HTML and JS
+- I have worked on writing queries in SQL
+- Solved a few scenario based problems that are available on the internet
+
+***Tech Training***
+- Jmeter - Performance testing platform
+- Architecture of JMeter
+- Layers in the architecture
+- Elements in JMeter
+- What does threads mean
+- Thread Groups in JMeter
+- Samplers
+- Listeners
+- Timers
+- Processors
+- Configurations
+- How does load balancing work
+- Where do we use the concept of load balancing
+- Steps to install and access JMeter
+- Hands on session on JMeter
