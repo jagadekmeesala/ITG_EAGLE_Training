@@ -948,7 +948,7 @@ Today trainer has taken a session on Note making
 - Practiced HTML and JS
 - I have worked on writing queries in SQL
 - Solved a few scenario based problems that are available on the internet
-- Revised the concepts of SQL and PL/SQL
+- Revised the concepts of SQL and PL/SQL 
 
 ***Tech Training***
 - Jmeter - Performance testing platform
