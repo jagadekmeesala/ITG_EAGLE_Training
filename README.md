@@ -948,6 +948,7 @@ Today trainer has taken a session on Note making
 - Practiced HTML and JS
 - I have worked on writing queries in SQL
 - Solved a few scenario based problems that are available on the internet
+- Revised the concepts of SQL and PL/SQL
 
 ***Tech Training***
 - Jmeter - Performance testing platform
@@ -965,3 +966,7 @@ Today trainer has taken a session on Note making
 - Where do we use the concept of load balancing
 - Steps to install and access JMeter
 - Hands on session on JMeter
+
+***Soft skills***
+- Practiced a mock business call with one of my colleagues
+- Revised telephoone etiquette, active listening and Note making sessions
