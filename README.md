@@ -936,3 +936,7 @@ Today trainer has taken a session on Note making
 - Short hand is a good way to make notes in a fast paced session
 - Leaving sufficient space at the end of the session helps to add more data at a later point
 - Mindmapping (spider map) is best thing to keep things connected and organised
+
+
+### Day-3 - 20th June, 2024 - Thursday - 10 to 1 - 2 to 12
+
