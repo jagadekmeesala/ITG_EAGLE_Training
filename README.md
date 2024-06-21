@@ -993,7 +993,7 @@ We were divided into teams and were addressed the names of popular database serv
 Overall we had a very good opportunity to learn and compete between ourselves where we were one as a team.
 
 ***Practice Presentation***
-We had DAAPS - Data advanced and analytics practice services.
+We had DAAPS - Data advanced and analytics practice services, practice presentation today.
 I got to know about the services or fields in DAAPS
 - Data governance and management
 - Data analytics and engineering
