@@ -980,6 +980,7 @@ Today we had SQL-a-thon by DAAPS practice.
 - How security is crucial in this data driven world.
 
 ***SQL-a-thon***
+
 We were divided into teams and were addressed the names of popular database service providers - Oracle, DB2, MySQL and so on.
 * There was no internet connection, mobiles and books were prhobited which made the task even more better
 - The dataset we got was IPL Data set which has 8 tables with various attributes in it
@@ -990,3 +991,4 @@ We were divided into teams and were addressed the names of popular database serv
 - From PL/SQL, we have used triggers, procedures, cursors.
 - we exhibited amazing team work and have embraced the challenges
 Overall we had a very good opportunity to learn and compete between ourselves where we were one as a team.
+ 
