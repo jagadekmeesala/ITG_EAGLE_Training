@@ -972,4 +972,21 @@ Today trainer has taken a session on Note making
 - Revised telephoone etiquette, active listening and Note making sessions
 
 ### Day-5 - 20th June, 2024 - Thursday - 10 to 1 - 2 to 12
-SQL-a-thon
+
+***Technical Discussion***
+Today we had SQL-a-thon by DAAPS practice.
+- We got the privilige to interact with Sathish Mongam, Sathish Jagarlamudi, Kumar, Ranjith and DAAPS team, who shared their expertise on Data.
+- We also learnt about how data is evolving day by day
+- How security is crucial in this data driven world.
+
+***SQL-a-thon***
+We were divided into teams and were addressed the names of popular database service providers - Oracle, DB2, MySQL and so on.
+* There was no internet connection, mobiles and books were prhobited which made the task even more better
+- The dataset we got was IPL Data set which has 8 tables with various attributes in it
+- We imported the data into MySQL workbench
+- We were assigned 20 questions per team and the time allocated was 6 hours
+- The questions covered wide range of concepts in SQL and basics of PL/SQL
+- We were asked to write queries on joins, views, temporary tables, Case statements, DDL and DML commands
+- From PL/SQL, we have used triggers, procedures, cursors.
+- we exhibited amazing team work and have embraced the challenges
+Overall we had a very good opportunity to learn and compete between ourselves where we were one as a team.
