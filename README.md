@@ -970,3 +970,6 @@ Today trainer has taken a session on Note making
 ***Soft skills***
 - Practiced a mock business call with one of my colleagues
 - Revised telephoone etiquette, active listening and Note making sessions
+
+### Day-5 - 20th June, 2024 - Thursday - 10 to 1 - 2 to 12
+SQL-a-thon
