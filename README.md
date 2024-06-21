@@ -991,4 +991,17 @@ We were divided into teams and were addressed the names of popular database serv
 - From PL/SQL, we have used triggers, procedures, cursors.
 - we exhibited amazing team work and have embraced the challenges
 Overall we had a very good opportunity to learn and compete between ourselves where we were one as a team.
- 
+
+***Practice Presentation***
+We had DAAPS - Data advanced and analytics practice services.
+I got to know about the services or fields in DAAPS
+- Data governance and management
+- Data analytics and engineering
+- Data operations and managed services
+- Advanced analytics
+I got to know about the life cycle of data in a DB
+- DB Admin
+- DB Engineers
+- Data analysis
+- AI and ML
+We were also introduced to a lot of tools which aid the process of managing, storing, organising and working with data
