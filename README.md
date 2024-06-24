@@ -1032,4 +1032,13 @@ We had a practice presentation from Team Innovation Labs - Miracle
 - GenAI apps developed as prototypes - Intellidoc, mAssist, Terraform Script Automation.
 - Tech Stacks needed to be a part of mLabs - React, Node, Python, Angular, Vue, SQL, NoSQL, QdrantDB, GCP, Azure and their services
 - Other than R&D Labs also conduct workshops, road shows, Rapid innovation and prototyping.
-- 
+
+***Soft Skills***
+Today we had the chance to reflect on the one slide profile that we have made.
+- We got some tips to present ourselves effectively
+- Having good eye contact with a confident body language and a good tone in the voice without any fillers adds value to the presentation
+- When asking a question be polite and while answering a question start with "Thanks for the question"
+- Audience member has to say thank you if your question has been answered
+- Stressing too much on the basics is not a good practice
+- "Where are you from" is not mandatory for a technical presentation.
+- Being professional and talking professional is must while you are representing an organization.
