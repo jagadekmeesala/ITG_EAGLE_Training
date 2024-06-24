@@ -1001,7 +1001,7 @@ I got to know about the services or fields in DAAPS
 - Advanced analytics
 I got to know about the life cycle of data in a DB
 - DB Admin
-- DB Engineers
+- DB Engineers 
 - Data analysis
 - AI and ML
 We were also introduced to a lot of tools which aid the process of managing, storing, organising and working with data
