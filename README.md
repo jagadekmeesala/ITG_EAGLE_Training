@@ -1020,4 +1020,16 @@ We were also introduced to a lot of tools which aid the process of managing, sto
 - Space consumption of Vector DB
 - AI and RAG implementation using Vector DB
 - GenAI, CV, NLP and their relation in the context of cutting edge technologies
+
+***Practice presentation***
+We had a practice presentation from Team Innovation Labs - Miracle
+- Inception and founding members of Innovation labs
+- Technologies that they used to work and technologies that they are working on currently
+- Technologies and methodology Innovation labs follow to fulfill a requirement
+- Machine learning, Cognitive automation, Cloud Computing, Containers and Devops, App modernization.
+- Tools used in Miracle Labs - React, Node, CosmosDB, Microsoft SQL server management and other services, Open AI, Python, Qdrant DB
+- GenAI technologies used - PALM, OpenAI, Azure OpenAI, IBM, Mistral AI
+- GenAI apps developed as prototypes - Intellidoc, mAssist, Terraform Script Automation.
+- Tech Stacks needed to be a part of mLabs - React, Node, Python, Angular, Vue, SQL, NoSQL, QdrantDB, GCP, Azure and their services
+- Other than R&D Labs also conduct workshops, road shows, Rapid innovation and prototyping.
 - 
