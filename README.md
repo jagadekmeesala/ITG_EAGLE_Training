@@ -1011,4 +1011,13 @@ We were also introduced to a lot of tools which aid the process of managing, sto
 ### Day-1 - 24th June, 2024 - Monday - 10 to 1 - 2 to 12
 
 ***Tech Practice***
-- Revised the concepts of core and advanced java for evaluation
+- Revised the concepts of core and advanced java for evaluation.
+- Continued the Spring JDBC task assigned by the trainer.
+- Understood why vector databases are introduced.
+- Life cycle of - How to query from, Vector databases
+- Common pipeline for vector Databases
+- Some commercial vector DB service providers (Qdrant, MongoDB, ElasticSearch, Chroma)
+- Space consumption of Vector DB
+- AI and RAG implementation using Vector DB
+- GenAI, CV, NLP and their relation in the context of cutting edge technologies
+- 
