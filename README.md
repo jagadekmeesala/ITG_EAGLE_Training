@@ -1005,3 +1005,10 @@ I got to know about the life cycle of data in a DB
 - Data analysis
 - AI and ML
 We were also introduced to a lot of tools which aid the process of managing, storing, organising and working with data
+
+
+## Week-6
+### Day-1 - 24th June, 2024 - Monday - 10 to 1 - 2 to 12
+
+***Tech Practice***
+- Revised the concepts of core and advanced java for evaluation
