@@ -1035,7 +1035,7 @@ We had a practice presentation from Team Innovation Labs - Miracle
 - GenAI technologies used - PALM, OpenAI, Azure OpenAI, IBM, Mistral AI
 - GenAI apps developed as prototypes - Intellidoc, mAssist, Terraform Script Automation.
 - Tech Stacks needed to be a part of mLabs - React, Node, Python, Angular, Vue, SQL, NoSQL, QdrantDB, GCP, Azure and their services
-- Other than R&D Labs also conduct workshops, road shows, Rapid innovation and prototyping.
+- Other than R&D Labs also conduct workshops, road shows, Rapid innovation and prototyping. 
 
 ***Soft Skills***
 
