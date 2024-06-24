@@ -5,7 +5,7 @@
 
 ### Day-1 - 21st May, 2024 - Tuesday - 2 to 12
 ***Tech***
-- Test on Basics of Java
+- Test on Basics of Java 
 - Basics of Java
 - JDK
 - JRE
