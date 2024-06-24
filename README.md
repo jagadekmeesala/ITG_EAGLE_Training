@@ -1020,8 +1020,12 @@ We were also introduced to a lot of tools which aid the process of managing, sto
 - Space consumption of Vector DB
 - AI and RAG implementation using Vector DB
 - GenAI, CV, NLP and their relation in the context of cutting edge technologies
+- What is Azure Data Factory
+- OLTP, OLAP and bridging gap between them.
+- ETL, ELT and ETL tools in the market
 
 ***Practice presentation***
+
 We had a practice presentation from Team Innovation Labs - Miracle
 - Inception and founding members of Innovation labs
 - Technologies that they used to work and technologies that they are working on currently
@@ -1034,6 +1038,7 @@ We had a practice presentation from Team Innovation Labs - Miracle
 - Other than R&D Labs also conduct workshops, road shows, Rapid innovation and prototyping.
 
 ***Soft Skills***
+
 Today we had the chance to reflect on the one slide profile that we have made.
 - We got some tips to present ourselves effectively
 - Having good eye contact with a confident body language and a good tone in the voice without any fillers adds value to the presentation
