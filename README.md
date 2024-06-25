@@ -1047,3 +1047,6 @@ Today we had the chance to reflect on the one slide profile that we have made.
 - Stressing too much on the basics is not a good practice
 - "Where are you from" is not mandatory for a technical presentation.
 - Being professional and talking professional is must while you are representing an organization.
+
+
+### Day-2 - 25th June, 2024 - Thursday - 10 to 1 - 2 to 12
