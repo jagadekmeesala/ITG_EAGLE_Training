@@ -1077,7 +1077,7 @@ Today we had the chance to reflect on the one slide profile that we have made.
 - How to install external packages using NPM
 - Server is the basic thing of a web app
 - Express is a framework
-- What is an application
+- What is an application and web application
 
 ***Soft Skills***
 
