@@ -1050,3 +1050,47 @@ Today we had the chance to reflect on the one slide profile that we have made.
 
 
 ### Day-2 - 25th June, 2024 - Thursday - 10 to 1 - 2 to 12
+
+***Tech practice***
+- I have worked on the Spring JDBC task assigned by the trainer.
+- I have worked on providing basic validations to the HTML, CSS page using JavaScript
+- What is Node
+- What is NPM and how is it related to node
+- What does a framework mean
+- How is it different from a library
+- Commands in Node CLI
+- What are steps to create a server with Express
+- Keywords for declaring variables in Node js
+- What does App object and Res object mean
+- Methods in App object and Res object
+- How to work on CRUD without connecting to a DB
+- Creating a basic node js app
+- Running a basic node js app
+- Performing addition operation using node js
+- Creating an API and performing CRUD
+- What is a middleware
+- How middleware is different from backend
+
+***Tech Training***
+- Introduction to Node
+- Why do we use Node js over java for backend
+- How to install external packages using NPM
+- Server is the basic thing of a web app
+- Express is a framework
+- What is an application
+
+***Soft Skills***
+
+The trainer has walked us through the basics of sentence formation session
+- English's origin is in medevial england
+- It is now global lingua france (Language that is spoken all over the world)
+- Any language that is not mother tounge will be our 2nd language
+- World organizations, Commonwealth countries use english as their official language for communication
+- We have 26 letters in the alphabet of English
+- English is 3rd most commonly spoken language after mandarian chinese and spanish
+- English has around 10lakhs+ words and it is still growing
+- English consists of around 180+ sentence structures out of which 90% of them uses only 15 sentence structures
+- English language has 44 sounds
+- Parts of speech is like a basket in which any english word we use falls in it
+- Pronouns, prepositions, Conjunctions, Interjections, Articles are fixed and sums to 188 in number
+- Other than those 188 words from parts of speech, every other word falls under nouns, verbs, adverbs and adjectives. 
