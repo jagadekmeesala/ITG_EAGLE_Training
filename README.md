@@ -1093,4 +1093,7 @@ The trainer has walked us through the basics of sentence formation session
 - English language has 44 sounds
 - Parts of speech is like a basket in which any english word we use falls in it
 - Pronouns, prepositions, Conjunctions, Interjections, Articles are fixed and sums to 188 in number
-- Other than those 188 words from parts of speech, every other word falls under nouns, verbs, adverbs and adjectives. 
+- Other than those 188 words from parts of speech, every other word falls under nouns, verbs, adverbs and adjectives.
+
+### Day-3 - 26th June, 2024 - Thursday - 10 to 1 - 2 to 12
+
