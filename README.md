@@ -1118,6 +1118,7 @@ The trainer has walked us through the basics of sentence formation session
 - Libuv in Node Js
 
 ***Tech Training***
+
 Trainer has briefed more about Node js and JWT
 - Parameters in Node Js
 - Query params, Body Params and Path Params
