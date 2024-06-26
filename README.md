@@ -1097,3 +1097,39 @@ The trainer has walked us through the basics of sentence formation session
 
 ### Day-3 - 26th June, 2024 - Thursday - 10 to 1 - 2 to 12
 
+***Tech Practice***
+- MVC Architecture
+- Working of MVC Architecture
+- App Object Methods
+- Response Object Methods
+- Request Object Methods and Properties
+- Get, Post, Put, Delete
+- When do we use console.log and res.send
+- How to use Request Headers
+- What is a prompt
+- Prompt texhniques
+- Connecting a Nodejs app to MySQL Database
+- What is a RowDataPacket
+- What is a Middleware
+- Events in NodeJs
+- Event Emitter Class
+- Event loop and its architecture
+- Phases in Event loop
+- Libuv in Node Js
+
+***Tech Training***
+Trainer has briefed more about Node js and JWT
+- Parameters in Node Js
+- Query params, Body Params and Path Params
+- Passing Query, Body and Path Params
+- What is a token
+- Veriifying data using tokens
+- JSON Web Tokens
+- Authentication tools - Passport, OAuth, JWT
+- Creating web tokens
+- Performing crud operations using JWT
+- Nodemon vs Node
+
+***Soft Skills***
+- Worked on the Assignment-1 which is to watch a news channel and prepare a summary on the understanding
+- Also, had a look at the parts of speech and in how many ways I can prepare a visual of it.
