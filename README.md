@@ -1134,3 +1134,63 @@ Trainer has briefed more about Node js and JWT
 ***Soft Skills***
 - Worked on the Assignment-1 which is to watch a news channel and prepare a summary on the understanding
 - Also, had a look at the parts of speech and in how many ways I can prepare a visual of it.
+
+
+### Day-3 - 26th June, 2024 - Thursday - 10 to 1 - 2 to 12
+
+We had a roadshow by Innovation Labs team on GenAI and Large Language Models.
+There were disussions about
+- Vector Database
+- Prompt engineering and its techniques
+- Zero shot prompting, One shot prompting, Chain of thought prompting
+- MiraAI
+- How does MiraAI works
+- Architecture of MiraAI
+- Knowledge Sphere in MiraAI and steps to create it
+- Data Sphere and steps to create it
+- What is Data Ingestion
+- License management and prompt playground in Mira Ai
+- LLM integrtions
+- Personal Identity information and Role based access system
+- Keycloack for authentication of MiraAI
+- What is cosine similarity
+- System prompt and query prompt - How they play a cruical role in using a LLM
+- OCR and Document Intelligence
+- MAssist and its features
+- Email Assist
+- Service Assist
+- Code Assist
+- Knowledge Assist
+- Supplier Scoring application
+- Talent Sphere application
+- Azure AI Studio
+
+We also had a hands on session, where we were able to
+- Using Azure to obtain Azure Open AI Services
+- Consume Azue Open AI API key, which is a chat completion model to create a conversation
+- Based on System prompt and Query prompt
+- Using Supplier Score application's code to analyse company's risk factors
+
+We also had a quiz at the end which was knowledgable yet fun.
+
+Overall, we had a very interactive workshop where we got time to discuss about the cutting edge technologies, all thanks to the Innovation Labs.
+
+***Tech Practice***
+- I have installed Java Eclipse and have run a spring boot project
+- Learned about Tokens
+- Researched about prompts and its techniques
+- Row function vs Arrow function
+
+***Soft Skills***
+Today, I have moderated the softskills presentation 
+I have moderated the presentations so that everyone in the audience gets a chance to be heard and resolve their queries
+I also have added the ratings and feedbacks to the presenters on their one slide profile
+Trainer has taught about
+- Types of nouns
+- Proper noun, Common noun, Collective noun, Abstract noun, Name of any activity
+- Pronouns and its types
+- Personal Noun, Pointing noun, Questioning noun, indefinite noun
+- Verbs and its types
+- Action verbs and state of being
+- Trainer has also assigned an assessment to work before upcoming session
+
