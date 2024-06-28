@@ -1201,7 +1201,7 @@ Trainer has taught about
 - Building an API using Spring on Eclipse
 - Database conncetion to Node Js
 - CRUD operations using Node Js on MySQL
-- 
+
 
 ***Tech Traning***
 - We were asked to research the basics of Angular. 
