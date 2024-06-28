@@ -1136,7 +1136,7 @@ Trainer has briefed more about Node js and JWT
 - Also, had a look at the parts of speech and in how many ways I can prepare a visual of it.
 
 
-### Day-3 - 26th June, 2024 - Thursday - 10 to 1 - 2 to 12
+### Day-4 - 27th June, 2024 - Thursday - 10 to 1 - 2 to 12
 
 We had a roadshow by Innovation Labs team on GenAI and Large Language Models.
 There were disussions about
@@ -1194,3 +1194,4 @@ Trainer has taught about
 - Action verbs and state of being
 - Trainer has also assigned an assessment to work before upcoming session
 
+### Day-5 - 28th June, 2024 - Thursday - 10 to 1 - 2 to 12
