@@ -1195,3 +1195,54 @@ Trainer has taught about
 - Trainer has also assigned an assessment to work before upcoming session
 
 ### Day-5 - 28th June, 2024 - Thursday - 10 to 1 - 2 to 12
+
+***Tech Practice***
+- Spring and JDBC on Eclipse
+- Building an API using Spring on Eclipse
+- Database conncetion to Node Js
+- CRUD operations using Node Js on MySQL
+- 
+
+***Tech Traning***
+- We were asked to research the basics of Angular.
+- Commands in Angular to create a new project
+- What is a component, modules, directives and services
+- What is routing and dependency injection in Angular
+- What does signals mean in Angular JS
+- What is JS and what is typescript
+- On what language is Angular built on
+- What are the parts in a component
+- Folder structure of Angular
+
+
+Today we had a session with Ram Chetan Atmudi from Innovation labs who had taken us deep into the Generative AI
+He has covered majority of the concepts on
+- What is Generative AI
+- What do you know about PoCs of Innovation Labs
+- What concepts has our team covered in the roadshow yesterday
+- What is a prompt
+- Prompt engineering techniques
+- What is Generative AI?
+- Types of Generative AI models
+- Text to text models, text to image, video, audio, documents.
+- Large Language Models
+- Multi-Modals
+- Multi modals - Models which accept different kinds of data inputs
+- What Gen AI and LLMs are capable of?
+- Limitations of Generative AI Models
+- How do we overcome the limitations of the models?
+- Retrieval Augmented Generation (RAG)
+- Unstructured RAG
+- Structured and Unstructured data
+- Cosine relation
+- Vector Database
+- Incontext learning
+- Tokens and limitation of Gemini and Chat GPT
+- Chunking of data
+- How data is chunked based on the model size
+- Vector DB
+- How many dimesions does data be stored in Vector DB
+- Query vectors
+- Text embedding
+- Case Study and PoC of Ford Motors
+The gist of the session was to give basic idea of each of the terminologies involed in Gen AI and LLMs and to take us deep into a few of the concepts using amazing examples and even better visual represnetations.
