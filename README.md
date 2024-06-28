@@ -1204,7 +1204,7 @@ Trainer has taught about
 - 
 
 ***Tech Traning***
-- We were asked to research the basics of Angular.
+- We were asked to research the basics of Angular. 
 - Commands in Angular to create a new project
 - What is a component, modules, directives and services
 - What is routing and dependency injection in Angular
