@@ -1246,3 +1246,8 @@ He has covered majority of the concepts on
 - Text embedding
 - Case Study and PoC of Ford Motors
 The gist of the session was to give basic idea of each of the terminologies involed in Gen AI and LLMs and to take us deep into a few of the concepts using amazing examples and even better visual represnetations.
+
+
+## Week-7
+### Day-1 - 1st July, 2024 - Monday - 2 to 12
+
