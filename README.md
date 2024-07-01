@@ -1251,3 +1251,26 @@ The gist of the session was to give basic idea of each of the terminologies invo
 ## Week-7
 ### Day-1 - 1st July, 2024 - Monday - 2 to 12
 
+***Technical***
+- I have revised the concepts of core Java
+- Solved a few problems of core java
+- Worked on spring boot in eclipse
+- Worked on building basics of angular
+- Components in angular
+- derivatives
+- models
+- services
+- modules in angular
+- Commands to build a basic angular application
+- Routing in agular
+- Signals in angular
+ 
+***Soft Skills***
+We have continued with a few one slide presentations
+Trainer has taught about the singular to pluaral conversions
+- Ways to convert a singluar noun to plural noun
+- Singular to plural conversion of pronouns
+- Conversion of plural to singluar verbs
+- A simple sentence structure
+- A few examples for each of the conversions
+In addition I have also done the grammar assignment of Soft skills
